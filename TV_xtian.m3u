@@ -1,7 +1,5 @@
 #EXTM3U
 # Playlist created by xtiantrelles (rev. 24/abr/2022) 
-#EXTINF:-1,### TV PERU ###
-******* TV PERU ********
 #EXTINF:-1,tvg-name="TV Perú", tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Canales Nacionales (Peru)",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1,tvg-name="TV Perú Internacional", tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="Canales Nacionales (Peru)",TV Perú Internacional
@@ -38,8 +36,6 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1650355615/ei/PxleYsSZOoikxgSu2q-4AQ/ip/2800%3A200%3Af0d0%3A191%3A0%3A0%3A0%3A1/id/xR-4NDFsYNk.2/source/yt_live_broadcast/requiressl/yes/tx/24154966/txs/24154965%2C24154966%2C24154967/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC8fuqAlw69UOc0N3mfKiAZdG/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHnAPUbcH213nl3Fvt9omc-RYrQUJh9wEK9PMMTpPC9gCIAq4GoEqgF70j92DC8e61sEt95xlsWft-r3WNy27uPlf/file/index.m3u8
 
 
-#EXTINF:1,### TV INTERNACIONAL ###
-******* TV INTERNACIONAL ********
 #EXTINF:-1,tvg-name="Pluto TV Naturaleza", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Naturaleza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,tvg-name="Pluto TV Viajes", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Viajes
@@ -125,8 +121,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db048f9447d6c0009
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
 
-#EXTINF:-1,### TV INTERNACIONAL MUSICA ###
-******* TV INTERNACIONAL MUSICA ********
 #EXTINF:-1,tvg-name="LiveXLive", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Música",LiveXLive
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 #EXTINF:-1,tvg-name="Stingray Greatest Hits", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Música",Stingray Greatest Hits
