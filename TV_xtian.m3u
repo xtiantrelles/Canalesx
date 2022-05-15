@@ -119,8 +119,6 @@ http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
 
 #EXTINF:-1,### DOCUMENTALES ###
 ******* DOCUMENTALES ********
-#EXTINF:-1,tvg-id="cgtn" tvg-country="CN", tvg-language="SPANISH", tvg-logo="https://pbs.twimg.com/profile_images/969543729500467202/y-kyowAV_200x200.jpg", group-title="Documentales", CGTN Español China
-https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1,tvg-id="CGTNDocumentary.cn", tvg-country="CN", tvg-language="English", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png", group-title="Documentales",CGTN Documentary
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 #EXTINF:-1,tvg-id="CGTNEnglish.cn", tvg-country="CN", tvg-language="English", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png", group-title="Documentales",CGTN English
