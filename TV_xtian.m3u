@@ -34,7 +34,11 @@ https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 #EXTINF:-1,tvg-name="EuroNews Español", tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQPBMr32egaSw12EVx693wELoyD-Swj3pbZCysP1A=s48-c-k-c0x00ffffff-no-rj" group-title="Canales Internacionales",EuroNews Español
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,tvg-name="RTVE Español", tvg-logo="https://img2.rtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVE.png" group-title="Canales Internacionales",RTVE Español
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1650355615/ei/PxleYsSZOoikxgSu2q-4AQ/ip/2800%3A200%3Af0d0%3A191%3A0%3A0%3A0%3A1/id/xR-4NDFsYNk.2/source/yt_live_broadcast/requiressl/yes/tx/24154966/txs/24154965%2C24154966%2C24154967/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC8fuqAlw69UOc0N3mfKiAZdG/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHnAPUbcH213nl3Fvt9omc-RYrQUJh9wEK9PMMTpPC9gCIAq4GoEqgF70j92DC8e61sEt95xlsWft-r3WNy27uPlf/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/live
+
+
+#EXTINF:1,### PLUTO ###
+******* PLUTO ********
 #EXTINF:-1,tvg-name="Pluto TV Naturaleza", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Naturaleza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,tvg-name="Pluto TV Viajes", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Viajes
@@ -100,6 +104,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4
 #EXTINF:-1,tvg-name="MTV Classic", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",MTV Classic
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+
 #EXTINF:-1,### PELICULAS ###
 ******* PELICULAS ********
 #EXTINF:-1,tvg-name="MovieMax HD", group-title="PELICULAS", tvg-id="MovieMax.ar", tvg-language="Español", tvg-logo="", MovieMax HD
@@ -134,31 +139,55 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db048f9447d6c0009
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
 
-#EXTINF:-1,tvg-name="LiveXLive", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Música",LiveXLive
+#EXTINF:-1,### RAKUTEN ###
+******* RAKUTEN ********
+#EXTINF:-1 tvg-id="RakutenTopFree1.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="" group-title="Rakuten",Rakuten Top Free 1 (720p)
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTopFree2.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="" group-title="Rakuten",Rakuten Top Free 2 (720p)
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTopFree3.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="" group-title="Rakuten",Rakuten Top Free 3 (720p)
+https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTopFree6.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="" group-title="Rakuten",Rakuten Top Free 6 (720p)
+https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1,### MUSICA ###
+******* MUSICA ********
+#EXTINF:-1 tvg-id="HQMRock.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://hqm.es/wp-content/uploads/rock-hqm-logo.png" group-title="Musica",HQM Rock (1080p) [Timeout]
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+#EXTINF:-1 tvg-id="HQMBaladas.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://hqm.es/wp-content/uploads/baladas-hqm-logo.png" group-title="Musica",HQM Baladas (1080p) [Timeout]
+https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
+#EXTINF:-1 tvg-id="HQMBlues.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://hqm.es/wp-content/uploads/relax-hqm-logo.png" group-title="Musica",HQM Blues (1080p) [Timeout]
+https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8   
+#EXTINF:-1 tvg-id="HQMChillOut.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://hqm.es/wp-content/uploads/chillout-hqm-logo.png" group-title="Musica",HQM Chill Out (1080p) [Timeout]
+https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
+#EXTINF:-1 tvg-id="HQMClassic.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://hqm.es/wp-content/uploads/classic-hqm-logo.png" group-title="Musica",HQM Classic (1080p) [Timeout]
+https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
+#EXTINF:-1,tvg-name="LiveXLive", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",LiveXLive
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
-#EXTINF:-1,tvg-name="Stingray Greatest Hits", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Música",Stingray Greatest Hits
+#EXTINF:-1,tvg-name="Stingray Greatest Hits", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Greatest Hits
 https://dai.google.com/linear/hls/event/_2NUNA_qTSyd70FTD_lqyw/master.m3u8
-#EXTINF:-1,tvg-name="Stingray Hit List", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Música",Stingray Hit List
+#EXTINF:-1,tvg-name="Stingray Hit List", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Hit List
 https://ott-linear-channels.stingray.com/hls/stirr/107.m3u8
-#EXTINF:-1,tvg-name="Stingray Rock Alternative", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Música",Stingray Rock Alternative
+#EXTINF:-1,tvg-name="Stingray Rock Alternative", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Rock Alternative
 https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
-#EXTINF:-1,tvg-name="Stingray Classic Rock", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Música",Stingray Classic Rock
+#EXTINF:-1,tvg-name="Stingray Classic Rock", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Classic Rock
 https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
-#EXTINF:-1,tvg-name="Stingray Pop Adult", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Música",Stingray Pop Adult
+#EXTINF:-1,tvg-name="Stingray Pop Adult", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Pop Adult
 https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
-#EXTINF:-1,tvg-name="Stingray Urban Beats", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Música",Stingray Urban Beats
+#EXTINF:-1,tvg-name="Stingray Urban Beats", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Urban Beats
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
-#EXTINF:-1,tvg-name="Stingray Flashback 70s", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Música",Stingray Flashback 70s
+#EXTINF:-1,tvg-name="Stingray Flashback 70s", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Flashback 70s
 https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
-#EXTINF:-1,tvg-name="Stingray Hot Country", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Música",Stingray Hot Country
+#EXTINF:-1,tvg-name="Stingray Hot Country", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Hot Country
 https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
-#EXTINF:-1,tvg-name="Stingray Everything 80s", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Música",Stingray Everything 80s
+#EXTINF:-1,tvg-name="Stingray Everything 80s", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Everything 80s
 https://ott-linear-channels.stingray.com/hls/stirr/128.m3u8
-#EXTINF:-1,tvg-name="Stingray Today's Latin Pop", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Música",Stingray Today's Latin Pop
+#EXTINF:-1,tvg-name="Stingray Today's Latin Pop", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Today's Latin Pop
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
-#EXTINF:-1,tvg-name="Vevo 80s", tvg-logo="https://www.logolynx.com/images/logolynx/26/26269b55cdcf0a4ff59ec9a331acdb7c.png" group-title="Música",Vevo 80s
+#EXTINF:-1,tvg-name="Vevo 80s", tvg-logo="https://www.logolynx.com/images/logolynx/26/26269b55cdcf0a4ff59ec9a331acdb7c.png" group-title="Musica",Vevo 80s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=-1&deviceLon=-1&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,tvg-name="Vevo 90s", tvg-logo="https://www.logolynx.com/images/logolynx/26/26269b55cdcf0a4ff59ec9a331acdb7c.png" group-title="Música",Vevo 90s
+#EXTINF:-1,tvg-name="Vevo 90s", tvg-logo="https://www.logolynx.com/images/logolynx/26/26269b55cdcf0a4ff59ec9a331acdb7c.png" group-title="Musica",Vevo 90s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=-1&deviceLon=-1&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,tvg-name="Vevo 2K", tvg-logo="https://www.logolynx.com/images/logolynx/26/26269b55cdcf0a4ff59ec9a331acdb7c.png" group-title="Música",Vevo 2K
+#EXTINF:-1,tvg-name="Vevo 2K", tvg-logo="https://www.logolynx.com/images/logolynx/26/26269b55cdcf0a4ff59ec9a331acdb7c.png" group-title="Musica",Vevo 2K
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=-1&deviceLon=-1&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
