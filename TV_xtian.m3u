@@ -10,7 +10,7 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,tvg-name="Latina", tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="Canales Nacionales (Peru)",Latina
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1,tvg-name="Panamericana TV", tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20220419" group-title="Canales Nacionales (Peru)",Panamericana TV
-https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFgHYz3v8LoQxOhFUgarZSEmvuTH5m4GW7CyupyVHOQE6)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFupS2IhHRKwTwPsd0my4Qgu3HIz5DO_7hrN3kl2NTn2P)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
 #EXTINF:-1,tvg-name="ATV", tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png" group-title="Canales Nacionales (Peru)",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live_1080p30.m3u8
 #EXTINF:-1,tvg-name="ATV+", tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png" group-title="Canales Nacionales (Peru)",ATV+
