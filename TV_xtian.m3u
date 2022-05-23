@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:1,### CANALES NACIONALES ###
-******* CANALES NACIONALES ********
 #EXTINF:-1,tvg-name="TV Perú", tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Canales Nacionales (Peru)",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1,tvg-name="TV Perú Internacional", tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="Canales Nacionales (Peru)",TV Perú Internacional
@@ -24,7 +23,6 @@ https://cu.onliv3.com/livevd/user1.m3u8
 
 
 #EXTINF:1,### TV NOTICIAS INTERNACIONAL ###
-******* TV NOTICIAS INTERNACIONAL ********
 #EXTINF:-1,tvg-name="RT Español", tvg-logo="https://actualidad.rt.com/static/img/logo112x112.png" group-title="Canales Internacionales",RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1,tvg-name="DW Español", tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png" group-title="Canales Internacionales",DW Español
@@ -38,7 +36,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 
 #EXTINF:1,### PLUTO ###
-******* PLUTO ********
 #EXTINF:-1,tvg-name="Pluto TV Naturaleza", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Naturaleza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,tvg-name="Pluto TV Viajes", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Viajes
@@ -106,7 +103,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e
 
 
 #EXTINF:-1,### PELICULAS ###
-******* PELICULAS ********
 #EXTINF:-1,tvg-name="MovieMax HD", group-title="PELICULAS", tvg-id="MovieMax.ar", tvg-language="Español", tvg-logo="", MovieMax HD
 http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
 #EXTINF:-1, tvg-name="Canal Film", group-title="PELICULAS" tvg-id="Canal Film" tvg-name="Canal Film"  tvg-language="Español" tvg-logo="",Canal Film
@@ -118,7 +114,6 @@ http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
 
 
 #EXTINF:-1,### DOCUMENTALES ###
-******* DOCUMENTALES ********
 #EXTINF:-1,tvg-id="CGTNDocumentary.cn", tvg-country="CN", tvg-language="English", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png", group-title="Documentales",CGTN Documentary
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 #EXTINF:-1,tvg-id="CGTNEnglish.cn", tvg-country="CN", tvg-language="English", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png", group-title="Documentales",CGTN English
@@ -150,7 +145,6 @@ https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1,### MUSICA ###
-******* MUSICA ********
 #EXTINF:-1 tvg-id="HQMRock.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://hqm.es/wp-content/uploads/rock-hqm-logo.png" group-title="Musica",HQM Rock (1080p) [Timeout]
 https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
 #EXTINF:-1 tvg-id="HQMBaladas.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://hqm.es/wp-content/uploads/baladas-hqm-logo.png" group-title="Musica",HQM Baladas (1080p) [Timeout]
