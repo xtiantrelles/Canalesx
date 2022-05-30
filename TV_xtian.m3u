@@ -101,7 +101,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e
 
 
 #EXTINF:-1,### PELICULAS ###
-#EXTINF:-1,tvg-name="MovieMax HD", group-title="PELICULAS", tvg-id="MovieMax.ar", tvg-language="Español", tvg-logo="", MovieMax HD
+#EXTINF:-1,tvg-name="MovieMax HD", tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/21358/moviemaxtv.png", group-title="PELICULAS", tvg-id="MovieMax.ar", tvg-language="Español", tvg-logo="", MovieMax HD
 http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
 #EXTINF:-1, tvg-name="Canal Film", group-title="PELICULAS" tvg-id="Canal Film" tvg-name="Canal Film"  tvg-language="Español" tvg-logo="",Canal Film
 http://f4.tvxweb.net:8082/35974/video.m3u8?token=MxPReBvRE1
