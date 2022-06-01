@@ -9,7 +9,7 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,tvg-name="Latina", tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="Canales Nacionales (Peru)",Latina
 https://live-latina-mdstrm.secure.footprint.net/live-stream-dai/13e2f8941b3d4fd7a6f5bc3278a6b72d/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5ce7109c7398b977dc0744cd/1c6be330-6d3e-4015-b424-14c44a3b0317/3.m3u8?aid=5ce70c587398b977dc0743b5&uid=yh48r3qdpqf9gqsztzehrhk7tupqxasu&sid=ro9qpnqateivjt6aclvh6vjhciqegdam&pid=vnr4edoqyxrt8zhh9mbnhspawavvhltf&ref=https%3a%2f%2fwww.latina.pe%2f&without_cookies=false&listenerid=&dnt=true&es=live-latina-mdstrm.secure.footprint.net&proto=https&pz=us&access_token=thdm5pjpli1hswoz1cxidelgyu22lwbxpwyzsbnajtdecsshatyryukvg77y6xeukvqlyjbabgu&manifestfilter=video_height:240-720&hash=02cafdd4308cbb9fb2282
 #EXTINF:-1,tvg-name="Panamericana", tvg-logo="https://panamericana.pe/imagenes/logo_2020.png" group-title="Canales Nacionales (Peru)",Panamericana
-https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFnIx1s9gdyTE8U5pweIl3a_waHNSdOl9gaq3oiiwdOhg)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFvm-spMEPX_iBzjTJxi4cMH6yDvnJ19Z8SIe6ZBcS-Xz)/dm/3/x774s7s/s/live-2.m3u8#cell=lnyc
 #EXTINF:-1,tvg-name="ATV", tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png" group-title="Canales Nacionales (Peru)",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live_1080p30.m3u8
 #EXTINF:-1,tvg-name="ATV+", tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png" group-title="Canales Nacionales (Peru)",ATV+
