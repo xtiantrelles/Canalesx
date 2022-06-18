@@ -30,7 +30,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1,tvg-name="DW Español", tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png" group-title="Canales Internacionales",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1,tvg-name="France 24 Español", tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Canales Internacionales",France 24 Español
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+https://www.youtube.com/watch?v=XDJPzMznAjU
 #EXTINF:-1,tvg-name="EuroNews Español", tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQPBMr32egaSw12EVx693wELoyD-Swj3pbZCysP1A=s48-c-k-c0x00ffffff-no-rj" group-title="Canales Internacionales",EuroNews Español
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,tvg-name="RTVE Español", tvg-logo="https://img2.rtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVE.png" group-title="Canales Internacionales",RTVE Español
