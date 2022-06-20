@@ -7,8 +7,7 @@ http://cdnh4.iblups.com/hls/irtp.m3u8
 #EXTINF:-1,tvg-name="TV Perú Noticias", tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="Canales Nacionales (Peru)",TV Perú Noticias
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,tvg-name="Latina", tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="Canales Nacionales (Peru)",Latina
-#http://177.53.152.186:8000/play/a019/index.m3u8
-https://livev2-latina-mdstrm.secure.footprint.net/live-stream/5fdbcdf0c7588f09f6e50e4a/publish/media_800.m3u8?aid=5ce70c587398b977dc0743b5&uid=4fymmft4ywbyefotnnvjm7utqa7fuszc&sid=91lfjzm1tnqc8mps6vcw5r4ytg4aaqyc&pid=5rhzno78gn1ybehtbweab0ufcifvid0h&ref=https%3a%2f%2fwww.latina.pe%2f&without_cookies=false&listenerid=&dnt=true&es=livev2-latina-mdstrm.secure.footprint.net&proto=https&pz=us&hash=06cb88c0ed3b3305a38b7
+http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1,tvg-name="Panamericana", tvg-logo="https://panamericana.pe/imagenes/logo_2020.png" group-title="Canales Nacionales (Peru)",Panamericana
 https://www.dailymotion.com/embed/video/x774s7s?api=postMessage&autoplay=true&id=player&mute=false&origin=https%3A%2F%2Fpanamericana.pe
 #EXTINF:-1,tvg-name="ATV", tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png" group-title="Canales Nacionales (Peru)",ATV
