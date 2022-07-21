@@ -11,7 +11,8 @@ http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1,tvg-name="Panamericana", tvg-logo="https://panamericana.pe/imagenes/logo_2020.png" group-title="Canales Nacionales (Peru)",Panamericana
 https://www.dailymotion.com/embed/video/x774s7s?api=postMessage&autoplay=true&id=player&mute=false&origin=https%3A%2F%2Fpanamericana.pe
 #EXTINF:-1,tvg-name="ATV", tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png" group-title="Canales Nacionales (Peru)",ATV
-https://dysmuyxh5vstv.cloudfront.net/hls/live_1080p30.m3u8
+#https://dysmuyxh5vstv.cloudfront.net/hls/live_1080p30.m3u8
+https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 #EXTINF:-1,tvg-name="ATV+", tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png" group-title="Canales Nacionales (Peru)",ATV+
 #https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #https://d2b3qmftt7nn1c.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b200000.m3u8
