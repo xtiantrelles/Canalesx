@@ -8,6 +8,8 @@ http://cdnh4.iblups.com/hls/irtp.m3u8
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,tvg-name="RPP", tvg-logo="https://s.rpp-noticias.io/static/img/logo-rpp.svg" group-title="Canales Nacionales (Peru)",RPP
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659045890/ei/orPiYoMJke7HBK6MkoAJ/ip/2800%3A200%3Af0d0%3A191%3A0%3A0%3A0%3A1/id/cW3Ob0D2TlA.1/source/yt_live_broadcast/requiressl/yes/tx/24027691/txs/24027691%2C24027692%2C24027693%2C24027694%2C24067852/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhnCUK_4jq94QV_HO_v4Vo1Mu3NI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIuhYB3yKQZeecsigPBk8fuKkbrmj_d_KBNAL9KRmXkfAiBQlBhlHlvN7A-fnNySUXxVmUzyZIreL7KssgZn6sZEVA%3D%3D/file/index.m3u8
+#EXTINF:-1,tvg-name="America TV", tvg-logo="https://s-tg.americatv.com.pe/f/desktop/img/tvgo-2020-invertido.svg" group-title="Canales Nacionales (Peru)",America
+https://www.youtube.com/watch?v=fYgdvmhmp00
 #EXTINF:-1,tvg-name="Latina", tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="Canales Nacionales (Peru)",Latina
 #http://177.53.152.186:8000/play/a019/index.m3u8
 #https://mdstrm.com/live-stream/5fdbcdf0c7588f09f6e50e4a?autoplay=false&player=637540d83726a708a74c7efe
