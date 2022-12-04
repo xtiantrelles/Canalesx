@@ -144,13 +144,13 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
 #EXTINF:-1,### RAKUTEN ###
 ******* RAKUTEN ********
-#EXTINF:-1 tvg-id="RakutenTopFree1.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://rakuten.tv/es" group-title="Rakuten",Rakuten Top Free 1 (720p)
+#EXTINF:-1 tvg-id="RakutenTopFree1.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg",Rakuten Top Free 1 (720p)
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTopFree2.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://rakuten.tv/es" group-title="Rakuten",Rakuten Top Free 2 (720p)
+#EXTINF:-1 tvg-id="RakutenTopFree2.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="Rakuten",Rakuten Top Free 2 (720p)
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTopFree3.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://rakuten.tv/es" group-title="Rakuten",Rakuten Top Free 3 (720p)
+#EXTINF:-1 tvg-id="RakutenTopFree3.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="Rakuten",Rakuten Top Free 3 (720p)
 https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTopFree6.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://rakuten.tv/es" group-title="Rakuten",Rakuten Top Free 6 (720p)
+#EXTINF:-1 tvg-id="RakutenTopFree6.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="Rakuten",Rakuten Top Free 6 (720p)
 https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
 
 
