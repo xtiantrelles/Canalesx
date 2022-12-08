@@ -28,7 +28,7 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 #https://d2b3qmftt7nn1c.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b200000.m3u8
 #https://d2b3qmftt7nn1c.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
-#EXTINF:-1,tvg-name="Nacional TV Perú", tvg-logo="https://scontent.fpiu1-1.fna.fbcdn.net/v/t39.30808-6/243171553_103015872151021_5385284374300660725_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHcHcHrJ5swi8r98UMbj5d4ArrVyn7OS6UCutXKfs5LpcPU0wgicPrn7xTFvw9V-EkuBWm3IztRQrpWREUdmI3L&_nc_ohc=NHZIpTrx_vsAX-BseiM&_nc_ht=scontent.fpiu1-1.fna&oh=00_AT8EwNYPbm1U65JaXAYR9aH75N5kUiSLZk-AMmqsDZTdgA&oe=62AA61AB" group-title="Canales Nacionales (Peru)",Nacional TV Perú
+#EXTINF:-1,tvg-name="Nacional TV Perú", tvg-logo="https://yt3.ggpht.com/8Wmq7-7yr3NZnZjZAnYfUAVPzgDVlHAwgCRdlaWsoy2Jv6x2uBUHVmLvy6gEmfcBn7I6BNuJTg=s88-c-k-c0x00ffffff-no-rj" group-title="Canales Nacionales (Peru)",Nacional TV Perú
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:-1,tvg-name="Exitosa TV", tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="Canales Nacionales (Peru)",Exitosa TV
 https://cu.onliv3.com/livevd1/user2.m3u8
