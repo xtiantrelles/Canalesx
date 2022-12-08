@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:1,### CANALES NACIONALES ###
+#EXTINF:-1,tvg-name="Centro de Noticias del Congreso", tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2020/01/newlogo-16-01-2020-mn.png", group-title="Canales Nacionales (Peru)", Congreso TV Perú
+https://www.youtube.com/watch?v=IiqFoM6bxas
 #EXTINF:-1,tvg-name="TV Perú", tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Canales Nacionales (Peru)",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1,tvg-name="TV Perú Internacional", tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="Canales Nacionales (Peru)",TV Perú Internacional
