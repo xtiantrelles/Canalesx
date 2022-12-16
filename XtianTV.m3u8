@@ -1,0 +1,210 @@
+#EXTM3U
+#EXTINF:1,### CANALES NACIONALES ###
+#EXTINF:-1 tvg-name="Centro de Noticias del Congreso" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2020/01/newlogo-16-01-2020-mn.png" group-title="Canales Nacionales (Peru)",Congreso TV Perú
+#https://www.youtube.com/watch?v=IiqFoM6bxas
+https://youtu.be/IiqFoM6bxas
+#EXTINF:-1 tvg-name="TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Canales Nacionales (Peru)",TV Perú
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-name="TV Perú Internacional" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="Canales Nacionales (Peru)",TV Perú Internacional
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-name="TV Perú Noticias" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="Canales Nacionales (Peru)",TV Perú Noticias
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-name="RPP" tvg-logo="https://s.rpp-noticias.io/static/img/logo-rpp.svg" group-title="Canales Nacionales (Peru)",RPP
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670463739/ei/m-yQY5fOJ6uS4dUPuMKb-Ak/ip/2800%3A200%3Af0d0%3A191%3A0%3A0%3A0%3A1/id/FnLvqqItSBc.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOai1194G_ZbroXhG-F1iGgvTkwdPRkyG4NCEiT8fL_KAiEAg03901LarxACLs8m7UJ5wYNxKSUpmxjmrVdJtotd0zQ%3D/file/i
+#EXTINF:-1 tvg-name="America TV" tvg-logo="https://s-tg.americatv.com.pe/f/desktop/img/tvgo-2020-invertido.svg" group-title="Canales Nacionales (Peru)",America
+#https://www.youtube.com/watch?v=FnLvqqItSBc
+#EXTINF:-1 tvg-name="Latina" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="Canales Nacionales (Peru)",Latina
+#http://177.53.152.186:8000/play/a019/index.m3u8
+#https://mdstrm.com/live-stream/5fdbcdf0c7588f09f6e50e4a?autoplay=false&player=637540d83726a708a74c7efe
+https://mdstrm.com/live-stream/5fdbcdf0c7588f09f6e50e4a
+#EXTINF:-1 tvg-name="Panamericana" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png" group-title="Canales Nacionales (Peru)",Panamericana
+#https://www.dailymotion.com/embed/video/x774s7s?api=postMessage&autoplay=true&id=player&mute=false&origin=https%3A%2F%2Fpanamericana.pe
+#https://panamericana.pe/tvenvivo/sd
+#https://www.dailymotion.com/cdn/live/video/x774s7s.m3u8?sec=eEd4sIYqNTEZ9Suy_hnpOIZ6vaJG-LRVsWbehtKi3XT375mdUC5Rlg37ZjhzK21S2JjkZRB6DyfxqLhbBHCnSg&dmTs=486301&dmV1st=424CD53B92FF3BA6F07E76711C7D4EF7
+https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFoinntY8BbHQhn0OAn8u7kT4aAjX6uwpkjSnZB4O5n6w)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+#https://www.dailymotion.com/cdn/live/video/x774s7s.m3u8?sec=eEd4sIYqNTEZ9Suy_hnpOKBdxcRKrk_G8KxHkP5pRbQA0vzqC14Wqa2VxwOScLF8tZAwGZtXq55z-FFEo8BRRw&dmTs=977211&dmV1st=3EEB39A675D39F6DA47CBDEF52C49956
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png" group-title="Canales Nacionales (Peru)",ATV
+#https://dysmuyxh5vstv.cloudfront.net/hls/live_1080p30.m3u8
+https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
+#EXTINF:-1 tvg-name="ATV+" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png" group-title="Canales Nacionales (Peru)",ATV+
+#https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+#https://d2b3qmftt7nn1c.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b200000.m3u8
+#https://d2b3qmftt7nn1c.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
+#EXTINF:-1 tvg-name="Nacional TV Perú" tvg-logo="https://yt3.ggpht.com/8Wmq7-7yr3NZnZjZAnYfUAVPzgDVlHAwgCRdlaWsoy2Jv6x2uBUHVmLvy6gEmfcBn7I6BNuJTg=s88-c-k-c0x00ffffff-no-rj" group-title="Canales Nacionales (Peru)",Nacional TV Perú
+https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
+#EXTINF:-1 tvg-name="Exitosa TV" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="Canales Nacionales (Peru)",Exitosa TV
+https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:-1 tvg-name="Karibeña" tvg-logo="https://i0.wp.com/radiokaribena.pe/wp-content/uploads/2016/11/logokaribena.png" group-title="Canales Nacionales (Peru)",Karibeña
+https://cu.onliv3.com/livevd/user1.m3u8
+
+
+#EXTINF:1,### TV NOTICIAS INTERNACIONAL ###
+#EXTINF:-1 tvg-name="RT Español" tvg-logo="https://actualidad.rt.com/static/img/logo112x112.png" group-title="Canales Internacionales",RT Español
+https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
+#EXTINF:-1 tvg-name="DW Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title="Canales Internacionales",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="France 24 Español" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Canales Internacionales",France 24 Español
+#https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+https://www.youtube.com/watch?v=XDJPzMznAjU
+#EXTINF:-1 tvg-name="EuroNews Español" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQPBMr32egaSw12EVx693wELoyD-Swj3pbZCysP1A=s48-c-k-c0x00ffffff-no-rj" group-title="Canales Internacionales",EuroNews Español
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="RTVE Español" tvg-logo="https://img2.rtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVE.png" group-title="Canales Internacionales",RTVE Español
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/live
+
+
+#EXTINF:1,### PLUTO ###
+#EXTINF:-1 tvg-name="Pluto TV Naturaleza" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Naturaleza
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Pluto TV Viajes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Viajes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Mundo Geek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Mundo Geek
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Pluto TV Aventura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Aventura
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Pluto TV Cine Acción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Cine Acción
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Pluto TV Cine Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Cine Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Pluto TV Cine Estelar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Cine Estelar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Pluto TV Cine Suspenso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Cine Suspenso
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Pluto TV Cine Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Cine Premiere
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Pluto TV Cine Crimen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Cine Crimen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Pluto TV Cine Terror" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Cine Terror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Pluto TV Animales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Animales
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Pluto TV Ciencia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Ciencia
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dd8364ea1d6780009929902/3063648/playlist.m3u8?terminate=false&sid=4fc6b685-777a-11ed-91b3-1a4ae8a77838&deviceDNT=0&deviceLat=-4.5796&deviceLon=-81.2718&deviceModel=web&deviceVersion=107.0.0&includeExtendedEvents=true&paln=AQzzBGQEl7nzD_I2o_ewQTqaRHo3sHhfYaM3BYVuIyi2lylqs4i0J7tJ9SS1Yby_sp_i36oOeKXINXjTm8VuNNUIfoPllDeaGN7LV-kw1tyNWkAfl7mJszcaw9DBlP2xUULybEu7WzI6HqhYDUH-U8hSMYNjZFmbTbLbZNrHawKNhZQiGNEw9N1Frh-QllfZY3EEtfM2QnG5p_9SYgQZHkGTsiUch0o1fyZOn7PjE3zkFX9XcxJ17zhnL_dkFlD6sC-AvYUmscNYGnDz04kuBRQuP7EUtYkEUFbc6EwKhGpYu6c9ikRaLsPYy2dyUCM5XM46BjtXbaqpgw_TqhWHoloIawBLGSKxeaeO4y3qOun4wL9UOKUr0E7fdHTUl_m774v3A3_INdAakmfuFF1C-hUK4CMS5v1CuRn3xgSTq9g1UTr116FpAAUMNbCezBioncwV6K_20iW8_Wl7XnjdkEIV-qx8w9_EN3HJAqPbMRkmeXNg50ArdDgNW86dRWNKchCIwGH7E548DJGsKbsXBW8tdLLJO6SEXqzaNXZnSAzadDya7fyjyVfD9ei8F92QtB3ncsXYCrElh22yG6lphESkf0kMDk1f7u8t40uiGNyD_dtOVAxzkbW20eswVjn9cEi_xtuG6R0niixLgIImqBCaVxKe0z19zLl-1AI8Lhy-2K9qpOOQyuqpIr-wvJsOQuihHGXvMyW_KzYhKbBXM3MJRmhB_Yy2IszjH6NtzniLERwRQ0HcbXwaMnhSLxJDRrbqdoPcioWLw4WI8sJ4p2eyc-1wmA0WWcr5cCeQsQP4NAxLxUnJ2ZiMWU62X7PsH0TiVvrWm3BbiuYP3W38cKrl7F-NLDfickBslLvlZiPE0zMeGYCUuJCncqniNbQbA-8W-D3v7JMXuhM2-TaNsdGepsVL1pWijGEkLok_Zq4UfRf3hHPc_GcvFqYInCV_QjV7_zfPYmKhc0ZXC-6lFnQZtAY9JBbDPPVoLyFtnW59Fh0DCWBkQU8uRFZ64AGRAdUKYrpJ8ALmH4ofoK51oRItlOarq4RKzJDg2EJ4bX8zIRATQfv3PzLL6-r7&serverSideAds=true&appName=web&deviceId=421f465e-d69c-4ee7-acee-593ffa82e247&appVersion=6.8.0-ca6f26788fd1cf3631592f30959d18d675705c98&deviceType=web&deviceMake=firefox&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijk4YTNlOTk2LWUwMGUtNDhhOC04ZjM4LTNmZDhjN2IzNTU2NCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI0ZmM2YjY4NS03NzdhLTExZWQtOTFiMy0xYTRhZThhNzc4MzgiLCJjbGllbnRJUCI6IjI4MDA6MjAwOmYwZDA6MTkxOjoxIiwiY2l0eSI6IlRhbGFyYSIsInBvc3RhbENvZGUiOiIiLCJjb3VudHJ5IjoiUEUiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotNC41Nzk2LCJkZXZpY2VMb24iOi04MS4yNzE4LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMDcuMC4wIiwiZGV2aWNlTWFrZSI6ImZpcmVmb3giLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNi44LjAtY2E2ZjI2Nzg4ZmQxY2YzNjMxNTkyZjMwOTU5ZDE4ZDY3NTcwNWM5OCIsImNsaWVudElEIjoiNDIxZjQ2NWUtZDY5Yy00ZWU3LWFjZWUtNTkzZmZhODJlMjQ3IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvTGltYSIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpOREl4WmpRMk5XVXRaRFk1WXkwMFpXVTNMV0ZqWldVdE5Ua3pabVpoT0RKbE1qUTMiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjcwNjQ2NjcyLCJpYXQiOjE2NzA1NjAyNzIsImp0aSI6ImUzMGI5OTVjLWM2NjItNDFmNC1iMWU5LTlkYjlmMTRlZmVkMSJ9.A60tJuWlh880x6IqtcAO-3SUupzY2FnrY8VTc8nD4bc
+#EXTINF:-1 tvg-name="Pluto TV Historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Historia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Pluto TV Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Cine
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Pluto TV Aventura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Aventura
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Pluto TV Investiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Investiga
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Los archivos del FBI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Los archivos del FBI
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Archivos Forenses" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Archivos Forenses
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="CSI en español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",CSI en español
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604928d54a4f730007ff76bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=-1&deviceLon=-1&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Misterios Medicos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Misterios Medicos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Emergencia 911" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Emergencia 911
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492a1e6361250007679665/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=-1&deviceLon=-1&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Misterios sin Resolver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Misterios sin Resolver
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Pluto TV Cine Clásico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Cine Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Pluto TV Series Retro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Series Retro
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Comedy Central
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Pluto TV Humor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Pluto TV Humor
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Paisajes por Stingray" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Paisajes por Stingray
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Conciertos por Stingray" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Conciertos por Stingray
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Karaoke por Stingray" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",Karaoke por Stingray
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="VH1 Classics" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Pluto TV",VH1 Classics
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="VH1+ – Pluto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",VH1+ – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61cd822216e2fd00086d0aeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="MTV Pluto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",MTV Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Pluto TV",MTV Classic
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 ### PELICULAS ###
+#EXTINF:-1 tvg-name="MovieMax HD" tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/21358/moviemaxtv.png",group-title="PELICULAS" tvg-id="MovieMax.ar" tvg-language="Español" tvg-logo="",MovieMax HD
+http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-name="Canal Film",group-title="PELICULAS" tvg-id="Canal Film" tvg-name="Canal Film"  tvg-language="Español" tvg-logo="",Canal Film
+http://f4.tvxweb.net:8082/35974/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="cartelerapremiere.ar" tvg-name="CARTELERA PREMIERE" tvg-language="Español" tvg-logo="",CARTELERA PREMIERE
+http://f4.tvxweb.net:8082/9040/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="hbofamily.ar" tvg-name="HBO FAMILY HD" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
+http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
+
+
+#EXTINF:-1 ### DOCUMENTALES ###
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-country="CN" tvg-language="Chineses" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",group-title="Documentales",CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-id="CGTNEnglish.cn" tvg-country="CN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",group-title="Documentales",CGTN English
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-country="CN" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",group-title="Documentales",CGTN Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="La2.es" tvg-country="AD;ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/512px-Logo_TVE-2.svg.png",group-title="Documentales",La 2 (1080p)
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDocumentaries.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png",group-title="Documentales",Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db048f9447d6c0009b8f29d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5db048f9447d6c0009b8f29d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=0d94d79f-0582-11eb-8b9f-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png",group-title="Documentales",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+
+
+#EXTINF:-1 ### RAKUTEN ###
+#EXTINF:-1 tvg-name="People are Awesome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="Rakuten TV",People are Awesome
+https://jukin-peopleareawesome-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Action Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="Rakuten TV",Action Movies
+https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Spotlight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="Rakuten TV",Spotlight
+https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="My Time Movie Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="Rakuten TV",My Time Movie Network
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Comedy Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="Rakuten TV",Comedy Movies
+https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Top Free" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="Rakuten TV",Top Free
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="Rakuten TV",Family
+https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Shows" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="Rakuten TV",Shows
+https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 ### MUSICA ###
+#EXTINF:-1 tvg-id="HQMRock.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://hqm.es/wp-content/uploads/rock-hqm-logo.png" group-title="Musica",HQM Rock (1080p) [Timeout]
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+#EXTINF:-1 tvg-id="HQMBaladas.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://hqm.es/wp-content/uploads/baladas-hqm-logo.png" group-title="Musica",HQM Baladas (1080p) [Timeout]
+https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
+#EXTINF:-1 tvg-id="HQMBlues.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://hqm.es/wp-content/uploads/relax-hqm-logo.png" group-title="Musica",HQM Blues (1080p) [Timeout]
+https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
+#EXTINF:-1 tvg-id="HQMChillOut.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://hqm.es/wp-content/uploads/chillout-hqm-logo.png" group-title="Musica",HQM Chill Out (1080p) [Timeout]
+https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
+#EXTINF:-1 tvg-id="HQMClassic.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://hqm.es/wp-content/uploads/classic-hqm-logo.png" group-title="Musica",HQM Classic (1080p) [Timeout]
+https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
+#EXTINF:-1 tvg-name="LiveXLive" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",LiveXLive
+https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
+#EXTINF:-1 tvg-name="Stingray Greatest Hits" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Greatest Hits
+https://dai.google.com/linear/hls/event/_2NUNA_qTSyd70FTD_lqyw/master.m3u8
+#EXTINF:-1 tvg-name="Stingray Hit List" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Hit List
+https://ott-linear-channels.stingray.com/hls/stirr/107.m3u8
+#EXTINF:-1 tvg-name="Stingray Rock Alternative" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
+#EXTINF:-1 tvg-name="Stingray Classic Rock" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Classic Rock
+https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
+#EXTINF:-1 tvg-name="Stingray Pop Adult" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Pop Adult
+https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
+#EXTINF:-1 tvg-name="Stingray Urban Beats" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Urban Beats
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1 tvg-name="Stingray Flashback 70s" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
+#EXTINF:-1 tvg-name="Stingray Hot Country" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Hot Country
+https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
+#EXTINF:-1 tvg-name="Stingray Everything 80s" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Everything 80s
+https://ott-linear-channels.stingray.com/hls/stirr/128.m3u8
+#EXTINF:-1 tvg-name="Stingray Today's Latin Pop" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Today's Latin Pop
+https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
+#EXTINF:-1 tvg-name="Vevo 80s" tvg-logo="https://www.logolynx.com/images/logolynx/26/26269b55cdcf0a4ff59ec9a331acdb7c.png" group-title="Musica",Vevo 80s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=-1&deviceLon=-1&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Vevo 90s" tvg-logo="https://www.logolynx.com/images/logolynx/26/26269b55cdcf0a4ff59ec9a331acdb7c.png" group-title="Musica",Vevo 90s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=-1&deviceLon=-1&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="Vevo 2K" tvg-logo="https://www.logolynx.com/images/logolynx/26/26269b55cdcf0a4ff59ec9a331acdb7c.png" group-title="Musica",Vevo 2K
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=-1&deviceLon=-1&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
