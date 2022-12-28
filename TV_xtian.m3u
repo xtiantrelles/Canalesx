@@ -41,7 +41,8 @@ https://cu.onliv3.com/livevd/user1.m3u8
 
 #EXTINF:1,### TV NOTICIAS INTERNACIONAL ###
 #EXTINF:-1,tvg-name="RT Español", tvg-logo="https://actualidad.rt.com/static/img/logo112x112.png" group-title="Canales Internacionales",RT Español
-https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
+#https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
+https://odysee.com/@ActualidadRT:9/rt_transmision_en_vivo:e
 #EXTINF:-1,tvg-name="DW Español", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title="Canales Internacionales",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1,tvg-name="France 24 Español", tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Canales Internacionales",France 24 Español
