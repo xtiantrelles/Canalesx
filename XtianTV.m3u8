@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:1,### CANALES NACIONALES ###
-#EXTINF:30, Centro de Noticias del Congreso
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1672816391/ei/p9K0Y-XbCJLigwOs2LGwBg/ip/2803%3Aa3e0%3A1271%3A1510%3A0%3A0%3A0%3A2/id/siFuuLHGxS8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANxkZ99Ww9m3NEUuQ9iO0jYFkvGz3B44sLeUEN3768_SAiEAl6QhsQkF6h8AvUNwi0jo85QOyObHwyafGOLDYGIZEJM%3D/file/index.m3u8
+# Playlist created by SMPlayer 22.7.0 (revisión 10091) 
+#EXTINF:30, Congreso de la República del Perú
+https://www.youtube.com/watch?v=lg2rupQIToU
 #EXTINF:2, TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:0, TV Perú Internacional
@@ -16,9 +16,9 @@ https://livev2tk-latina-mdstrm.secure2.footprint.net/token=ip=45.195.88.164~nva=
 https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFhfIdIryEYxiE770OHbX5et-qxVB_W_unQm4mTGhZwWh)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
 #EXTINF:0, America TVGO
 https://pe-p1-p-e-di2.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=RudxhzRRllsUTRz5UKtMkBVBvc3wjhoo&sid=7KCV9ZEDKS1DNRaJjYGshq2OXZuSu2cg&pid=5KuDb6gKC3bSRJn8pS4j7bq3eV50ZeIl&c=13206784&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=uaEwrDvLFosdZxF7FdhkjH1ZXBzvFzG40vUs9GEntoH0tzefb6n8r2f4gt6erxCudGDc84M9qFd&es=pe-p1-p-e-di2.cdn.mdstrm.com&ote=1672878790815&ot=PxBjdpKJ_jApxZ-HSjtggA&proto=https&pz=us
-#EXTINF:0, ATV
+#EXTINF:1.9019, ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
-#EXTINF:0, ATV+
+#EXTINF:1.46813, ATV+
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:0, Nacional TV Perú
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
@@ -27,23 +27,27 @@ https://cu.onliv3.com/livevd1/user2.m3u8
 #EXTINF:0, Karibeña
 https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:0, Willax
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1672816845/ei/bdS0Y9eWGujdzLUPlv6u-A0/ip/2803%3Aa3e0%3A1271%3A1510%3A0%3A0%3A0%3A2/id/yl9GcTA2I48.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIge1-Lwi6sR2sdefIpTQVYAiEJUp9UjPAn4K18PoLQ-J0CIAz_qNNtQbzY49VYXgUF5_Bl2ZMaL1pNkT1CvtLJzoCg/file/index.m3u8
-
-
-#EXTINF:1,### CANALES INTERNACIONALES ###
-#EXTINF:1, RT Español
+https://www.youtube.com/watch?v=CgKqKkFtENY
+#EXTINF:0, Nativa
+https://servilive.com:3449/live/mlecaroslive.m3u8
+#EXTINF:0, PBO
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiIzOTk5NjYzOTE3ZmE3NWM0NTM1ODZlM2UyYWJiMDgxZCIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNjczMDA5MzQxLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.AkARvm_LowWksrcpC4UKWbWpfR4m90rNbdidXLVfXIceDh8kM2Jcd7yDUl5Mm1C73bChjKUaGawOWbxH93YhGRnoVVerCKyK6iG4USHJWLXIXeVh5wGRIldNhc_v1q95mYdo-XTyX3aml464oX3a6ve8cyyEadZNU0t8E_I6nEPiF7lBhYXuhoMJMueJyiVwcOx39sDo3YGSx1EjMmg2Zc_Pl6mO2reQGR_SikpE7tF-wMN9OitW41TkeeuqeMt1EX9PCqpAZ-dYAbAfhrAAwDunOwt6FBwHvKOfXWFihRQMpZCbZiGZj7lFBdGav0YjG_uhea4ps0sffX63Tj4wgQ/manifest/stream_t1_r720001.m3u8
+#EXTINF:0, Fuego TV
+https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/chunklist_w1566708518.m3u8
+#EXTINF:0, Contigo TV
+https://multimedia.tmcreativos.com:1936/srnxpedqbv/ngrp:srnxpedqbv_all/playlist.m3u8
+#EXTINF:1.2301, RT Español
 https://cdn.odysee.live/live/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8?cachebust=1
-#EXTINF:0, DW Español
+#EXTINF:0.58, DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-#EXTINF:1, France 24 Español
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1672816714/ei/6dO0Y_CEMdK0hgb67ZbwBQ/ip/2803%3Aa3e0%3A1271%3A1510%3A0%3A0%3A0%3A2/id/XDJPzMznAjU.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgAbu52an339k5thxbrUoLPb-b_NyAWPzCbEg3EM9Te98CICH5stwHOp-MYDE_kySXGgScbJaZSeNQuPihZZoSuVxN/file/index.m3u8
-#EXTINF:1, EuroNews Español
+#EXTINF:1.88654, France 24 Español
+https://www.youtube.com/watch?v=XDJPzMznAjU
+#EXTINF:7.168, EuroNews Español
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:30, RTVE Español
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1672815627/ei/q8-0Y6PDBc7P8wSpmZUY/ip/2803%3Aa3e0%3A1271%3A1510%3A0%3A0%3A0%3A2/id/xR-4NDFsYNk.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgHYEtE9cJXXfy6SinzwaJae_Y-aqi-Tol8YQ3mb0AOhICIQDlyQ29pZOXal43b4Z68VAmFvlpwcvEmcTKn6FhG8OtEQ%3D%3D/file/index.m3u8%22
-
-
-#EXTINF:1,### PLUTO TV ###
+https://www.youtube.com/watch?v=xR-4NDFsYNk
+#EXTINF:1.08684, CGTN Spanish
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:0, Pluto TV Naturaleza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, Pluto TV Viajes
@@ -120,9 +124,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61cd82221
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, MTV Classic
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-#EXTINF:1,### PELICULAS ###
 #EXTINF:0, MovieMax HD
 http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
 #EXTINF:0, Canal Film
@@ -131,22 +132,16 @@ http://f4.tvxweb.net:8082/35974/video.m3u8?token=MxPReBvRE1
 http://f4.tvxweb.net:8082/9040/video.m3u8?token=MxPReBvRE1
 #EXTINF:0, PELICULAS
 http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
-
-
-#EXTINF:1,### DOCUMENTALES ###
 #EXTINF:4, CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:5, CGTN English
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:0, CGTN Spanish
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:0, Pluto TV Documentaries
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db048f9447d6c0009b8f29d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5db048f9447d6c0009b8f29d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=0d94d79f-0582-11eb-8b9f-0242ac110002&terminate=false&userId=
 #EXTINF:1, RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-
-
-#EXTINF:1,### RAKUTEN TV###
+#EXTINF:1, Nasa Live Stream
+https://www.youtube.com/watch?v=86YLFOog4GM
 #EXTINF:1, People are Awesome
 https://jukin-peopleareawesome-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:2, Rakuten TV Action Movies
@@ -163,9 +158,6 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:2, Rakuten TV Shows
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-#EXTINF:1,### MUSICALES ###
 #EXTINF:1, HQM Rock
 https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
 #EXTINF:1, HQM Baladas
