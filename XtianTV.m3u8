@@ -1,22 +1,20 @@
 #EXTM3U
 # Playlist created by SMPlayer 22.7.0 (revisión 10091) 
-#EXTINF:0, Congreso de la República del Perú
-https://www.youtube.com/watch?v=lg2rupQIToU
 #EXTINF:0, TV Perú
-https://cdnh74.iblups.com/hls/R9WtilpKKB.m3u8
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:0, TV Perú Internacional
-http://cdnh4.iblups.com/hls/irtp.m3u8
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:0, TV Perú Noticias
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:0,Latina
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+#EXTINF:0, Latina
 #https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
-#EXTINF:0,Panamericana SD
+#EXTINF:0, Panamericana SD
 https://stream-02.sv4.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFgsD8FgKU37iLRGBe_kSeFb9JRgtZBYyHhmuQmiRbnRm)/dm/3/x774s7s/s/live-0.m3u8#cell=lsv4
-#EXTINF:0,Panamericana HD
+#EXTINF:0, Panamericana HD
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1, BHTV
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w866086596.m3u8
 #EXTINF:0, ATV
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV3/chunks.m3u8
 #EXTINF:0, ATV+
@@ -26,12 +24,11 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 #EXTINF:0, Nacional TV Perú
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:0, Exitosa TV
-https://cu.onliv3.com/livevd1/user2.m3u8
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w839711738.m3u8
 #EXTINF:0, Karibeña
-https://cu.onliv3.com/livevd/user1.m3u8
+https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w553159301.m3u8
 #EXTINF:0, Willax
-#https://www.youtube.com/watch?v=CgKqKkFtENY
-https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmj6q7fyamnDTXzYHKftwsi9Iz1LZoL4ixHyv-MqLeKR5)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+https://stream-03.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmk_J6sUoNm7TVEEyQOPFnpIHrhMpyqDJ9rTKgucEm93P)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lsv4
 #EXTINF:2.59132, Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:0, PBO
@@ -49,9 +46,9 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0, DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:0, France 24 Español
-https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700554803/ei/0xNcZeCKM9rCobIPnPekQA/ip/2803%3Aa3e0%3A1272%3Ab330%3A0%3A0%3A0%3A1/id/Y-IlMeCCtIg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5c6kRqfPaSdnV0FkTi0HI8eekdwBcET7W4QFw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgS4sH5vsfJ04hJgMZE1nxyyD74qmNHgWHqxOR_KF7TwcCIQDD2DISogJgFOlSYFt9LzNSVd_upNUxs4amdA0z96rUhg%3D%3D/file/index.m3u
 #EXTINF:0, EuroNews Español
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700555295/ei/vxVcZZesBZ6A-LAPkdawkAs/ip/2803%3Aa3e0%3A1272%3Ab330%3A0%3A0%3A0%3A1/id/O9mOtdZ-nSk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9ToCA3UpQhgMbE6-afoJc0_0W7Hhk9zV4ZKCw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAOPvII6Qkp49nnyXbmwSE1ApYcN7oxMzFaK4JsVkH3XIAiEAiXSkAQ4NtR-iLaSR16tPkb0jl_QpE91G4CVyasFdprk%3D/file/index.m3u8
 #EXTINF:0, RTVE Español
 #https://www.youtube.com/watch?v=xR-4NDFsYNk
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8
