@@ -8,22 +8,17 @@ https://cdnh74.iblups.com/hls/R9WtilpKKB.m3u8
 http://cdnh4.iblups.com/hls/irtp.m3u8
 #EXTINF:0, TV Perú Noticias
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:0, RPP
-https://www.youtube.com/watch?v=_d9mr_6a0pY
 #EXTINF:0,Latina
 #https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #EXTINF:0,Panamericana
-https://cdnhd.iblups.com/hls/ptv2.m3u8
+https://stream-05.ix7.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFgsD8FgKU37iLRGBe_kSeFb9JRgtZBYyHhmuQmiRbnRm)/dm/3/x774s7s/s/live-3.m3u8#cell=lcore
 #EXTINF:-1, BHTV
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:0, ATV
-#https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
-https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
+https://rr1---sn-fvf2xg0-aphl.googlevideo.com/videoplayback?expire=1700559019&ei=KwhcZaelOPOQ-LAPq8yQqAE&ip=2803:a3e0:1272:b330::1&id=cff3223c18c4ffaf&itag=22&source=youtube&requiressl=yes&xpc=Eghovf3BOnoBAQ==&mh=-W&mm=31&mn=sn-fvf2xg0-aphl&ms=au&mv=m&mvi=1&pl=41&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&dur=20.062&lmt=1698917718776882&mt=1700529919&cpn=kPbIn-FXuMcmiWmH&txp=5532434&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,acao,ctier,mime,vprv,dur,lmt&sig=ANLwegAwRAIgIsJAS_JLEff-uqqf7ncnknguE_Iy5uvvqEfbHfPUIKcCIAZnv9GGy8rSFUojS7epuUCpguF4T7Kghufvkdb58iLi&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AM8Gb2swRgIhAJoXvqrZH7qQ97C-G9RNlcnUmBsnP4AWcC5SuY0_nXCBAiEA-bu89ZCiKPpM4CtRjNmr_fTJsaHZjQRYBiTpws-J30A=
 #EXTINF:0, ATV+
-#https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
-#https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
-https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
+https://rr3---sn-njaeyn7z.googlevideo.com/videoplayback?expire=1700559062&ei=VghcZaOAM7iQobIPjqaYqAw&ip=2803:a3e0:1272:b330::1&id=a148bc0a2c07e35a&itag=22&source=youtube&requiressl=yes&xpc=Eghovf3BOnoBAQ==&mh=N_&mm=31&mn=sn-njaeyn7z&ms=au&mv=m&mvi=3&pl=41&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&dur=12.051&lmt=1700382610011662&mt=1700529919&cpn=Xxj2LQba7rHDtB9b&txp=5532434&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,acao,ctier,mime,vprv,dur,lmt&sig=ANLwegAwRAIgUdis8bAA7alje5WKOOShVixVht4aSc45EosUnV6lp4oCIAswa73I6tahLkx62NLbdSVk66vjUM1xixnUWXnOCMdm&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AM8Gb2swRQIgN1frNtDl7_vKhvfMUk3dTgkOa9J0_p0q_twBBkxBOrQCIQCZ0yia77fYCkJfxC7Vz9TAePHlJ6sLABtPGhyqXaU0ng==
 #EXTINF:0, ATVSur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
 #EXTINF:0, Nacional TV Perú
