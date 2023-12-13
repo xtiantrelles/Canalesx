@@ -40,17 +40,16 @@ https://multimedia.tmcreativos.com:1936/srnxpedqbv/ngrp:srnxpedqbv_all/playlist.
 #EXTINF:0, Reuters
 https://rr4---sn-fvf2xg0-aphe.googlevideo.com/videoplayback?expire=1681898212&ei=hGY_ZPO5B8-WkAOfr5-gBQ&ip=2803%3Aa3e0%3A1272%3Ab330%3A%3A2&id=BVQXGgzll6k.1&itag=140&aitags=140&source=yt_live_broadcast&requiressl=yes&mh=D8&mm=44%2C29&mn=sn-fvf2xg0-aphe%2Csn-cvb7ln7s&ms=lva%2Crdu&mv=m&mvi=4&pl=49&initcwndbps=1207500&spc=99c5CewXZTxc2QOBfJmdAY_7-OXuFSVf5mEXOcMwkflBRPWhE-5DOs4&vprv=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&ns=JYGAkaHX7eb2k34Mi5_s3WYM&gir=yes&mt=1681876107&fvip=2&keepalive=yes&fexp=24007246&c=WEB&n=EmS4WqMheC6F2g&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgSK08ZIM2pOpJzN7wMhUFeD-zNvy5N_z8DJHwCWo0tncCIQCWJAZ1G0TY9a00KGRVSrQC8JPJeBMz7nKUXsDra_kgVQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgen3z0cmUm6-358hKSGZu9jeLZx9gZoIWkNXkJjsvJLMCIB2o45YPjL9l8_KYT5CH2pIab46gI3XzRZgfeFf32hPU&alr=yes&cpn=bpGZH0OQ51KFv2pk&cver=2.20230417.01.00&sq=4924&rn=487&rbuf=9537&pot=Mlt4VdrlaUQPaXhtAVylxja-Fsjhilq2sUMirFJVxfTs9S5fH_Uyzma49mzdMQaedgv2wUlq7klJVyTHWPj9qwO1ZnPf_iWGPldtjXr37JkMWpwKJY4QaE3bCtab
 #EXTINF:0, RT Español
-https://cdn.odysee.live/live/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8?cachebust=1
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0,RT Español VK
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0, DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:0, France 24 Español
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700554803/ei/0xNcZeCKM9rCobIPnPekQA/ip/2803%3Aa3e0%3A1272%3Ab330%3A0%3A0%3A0%3A1/id/Y-IlMeCCtIg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5c6kRqfPaSdnV0FkTi0HI8eekdwBcET7W4QFw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgS4sH5vsfJ04hJgMZE1nxyyD74qmNHgWHqxOR_KF7TwcCIQDD2DISogJgFOlSYFt9LzNSVd_upNUxs4amdA0z96rUhg%3D%3D/file/index.m3u
+https://youtu.be/Y-IlMeCCtIg
 #EXTINF:0, EuroNews Español
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700555295/ei/vxVcZZesBZ6A-LAPkdawkAs/ip/2803%3Aa3e0%3A1272%3Ab330%3A0%3A0%3A0%3A1/id/O9mOtdZ-nSk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9ToCA3UpQhgMbE6-afoJc0_0W7Hhk9zV4ZKCw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAOPvII6Qkp49nnyXbmwSE1ApYcN7oxMzFaK4JsVkH3XIAiEAiXSkAQ4NtR-iLaSR16tPkb0jl_QpE91G4CVyasFdprk%3D/file/index.m3u8
+https://youtu.be/O9mOtdZ-nSk
 #EXTINF:0, RTVE Español
-#https://www.youtube.com/watch?v=xR-4NDFsYNk
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8
 #EXTINF:1.08684, CGTN Spanish
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
