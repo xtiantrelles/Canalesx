@@ -24,13 +24,15 @@ https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sd
 #EXTINF:0, ATVSur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur2/chunks.m3u8
 #EXTINF:0, Nacional TV Perú
-https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
+#https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
+https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 #EXTINF:0, Exitosa TV
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w839711738.m3u8
 #EXTINF:0, Karibeña
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w553159301.m3u8
 #EXTINF:0, Willax
-https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmiwVm4N0K_N7_-iZvRQnik6SnqviBmCt9P69PVJlamcc)/dm/3/x7x4dgx/s/live-1.m3u8
+#https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmiwVm4N0K_N7_-iZvRQnik6SnqviBmCt9P69PVJlamcc)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmuA7XLIHZ0MbINyLmPjPYeKTOp33PpI859U153_WWNJ7)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:2.59132, Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:0, PBO
