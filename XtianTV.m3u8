@@ -11,7 +11,8 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 https://jireh-2-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b133799096377658acf4b62dfe&ndvc=0&sid=ba5t1l1xb21233563652658acf5f270ba
 #EXTINF:0, Panamericana SD
-https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFtNK5XP8eEnaxmFG7lMRdZ2EwKBj2AOum3unYYPIYQCO)/dm/3/x774s7s/s/live-3.m3u8
+#https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFtNK5XP8eEnaxmFG7lMRdZ2EwKBj2AOum3unYYPIYQCO)/dm/3/x774s7s/s/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFkMI4Ebnfijy0G6vM6Pyugvs5sVm8kgLEXXgglsuOaBJ)/dm/3/x774s7s/s/live-3.m3u8
 #EXTINF:0, Panamericana HD
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1, BHTV
