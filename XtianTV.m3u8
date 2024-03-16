@@ -17,9 +17,11 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1, BHTV
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w866086596.m3u8
 #EXTINF:0, ATV
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV3/chunks.m3u8
+#https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV3/chunks.m3u8
+https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 #EXTINF:0, ATV+
-https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas3/chunks.m3u8
+#https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas3/chunks.m3u8
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
 #EXTINF:0, ATVSur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
 #EXTINF:0, Nacional TV Perú
