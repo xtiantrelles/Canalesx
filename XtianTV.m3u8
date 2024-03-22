@@ -37,7 +37,6 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w839711738.m3u8
 #EXTINF:0, Karibeña
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w553159301.m3u8
 #EXTINF:0, Willax
-#https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmVJDrpwiPCHZa_aj7FpNO8pUyGcFv1Ly9vP0GdwBSBL)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 https://live-c.cf.dmcdn.net/sec2(Pxo0yrgTlsZ7NzCf7bLhn5Yj3A0qNG0OEgTaLCUbXd1coNWDyPil0atqNZ8UERUqq9Qgud472SFh6Y4g0FmWbGax5oXTSPB-8a3wZTF1FU8)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:2.59132, Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
@@ -214,5 +213,3 @@ https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=-1&deviceLon=-1&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, Vevo 90s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=-1&deviceLon=-1&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:3, Vevo 2K
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=-1&deviceLon=-1&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
