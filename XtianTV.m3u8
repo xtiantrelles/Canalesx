@@ -33,7 +33,8 @@ https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 #https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w866086596.m3u8
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
 #EXTINF:0, Exitosa TV
-https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w839711738.m3u8
+#https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w839711738.m3u8
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:0, Karibeña
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w553159301.m3u8
 #EXTINF:0, Willax
@@ -49,6 +50,8 @@ https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/chunklist_w1566708518.m3u
 https://multimedia.tmcreativos.com:1936/srnxpedqbv/ngrp:srnxpedqbv_all/playlist.m3u8
 #EXTINF:0, Reuters
 https://rr4---sn-fvf2xg0-aphe.googlevideo.com/videoplayback?expire=1681898212&ei=hGY_ZPO5B8-WkAOfr5-gBQ&ip=2803%3Aa3e0%3A1272%3Ab330%3A%3A2&id=BVQXGgzll6k.1&itag=140&aitags=140&source=yt_live_broadcast&requiressl=yes&mh=D8&mm=44%2C29&mn=sn-fvf2xg0-aphe%2Csn-cvb7ln7s&ms=lva%2Crdu&mv=m&mvi=4&pl=49&initcwndbps=1207500&spc=99c5CewXZTxc2QOBfJmdAY_7-OXuFSVf5mEXOcMwkflBRPWhE-5DOs4&vprv=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&ns=JYGAkaHX7eb2k34Mi5_s3WYM&gir=yes&mt=1681876107&fvip=2&keepalive=yes&fexp=24007246&c=WEB&n=EmS4WqMheC6F2g&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgSK08ZIM2pOpJzN7wMhUFeD-zNvy5N_z8DJHwCWo0tncCIQCWJAZ1G0TY9a00KGRVSrQC8JPJeBMz7nKUXsDra_kgVQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgen3z0cmUm6-358hKSGZu9jeLZx9gZoIWkNXkJjsvJLMCIB2o45YPjL9l8_KYT5CH2pIab46gI3XzRZgfeFf32hPU&alr=yes&cpn=bpGZH0OQ51KFv2pk&cver=2.20230417.01.00&sq=4924&rn=487&rbuf=9537&pot=Mlt4VdrlaUQPaXhtAVylxja-Fsjhilq2sUMirFJVxfTs9S5fH_Uyzma49mzdMQaedgv2wUlq7klJVyTHWPj9qwO1ZnPf_iWGPldtjXr37JkMWpwKJY4QaE3bCtab
+#EXTINF:0, CNN Español
+http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
 #EXTINF:0, RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0,RT Español VK
@@ -56,8 +59,7 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0, DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:0, France 24 Español
-#https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1709426878/ei/XnTjZejIG4yF-LAPsuGm4AU/ip/2803:a3e0:1272:b330::2/id/Y-IlMeCCtIg.1/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-fvf2xg0-aphe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/900/manifest_duration/900/vprv/1/playlist_type/DVR/initcwndbps/1646250/mh/2J/mm/44/mn/sn-fvf2xg0-aphe/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/41/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/mt/1709404840/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAMMm1cvH6f4zCG7I42fubhIrY8zW_3OG2iOEYzCNTtjKAiAEmysQOAFln0EmpFmD1x0GyFJtwHxpu7ifi5h5vJXTdA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/APTiJQcwRgIhAPVy73PC_dhEEYp2lkYPmmZSOdQPUexZ-Ff1kcxObMdXAiEA_mUXKO73DPLJS99oUNHIVGbPgHtnKUGQVzL7z1t11VQ%3D/playlist/index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710884680/ei/6LL5ZbCnBueZ-LAP5ouG6Ao/ip/2803%3Aa3e0%3A1272%3Ab330%3A0%3A0%3A0%3A5/id/Y-IlMeCCtIg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51123457/txs/51123452%2C51123453%2C51123454%2C51123455%2C51123456%2C51123457/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f-DDHiVS39PTB4-Dbi3Ez1_nJGRJUbuMdfPqVrA5Z5b5pcEqSPv7ieam/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbh8zC_MY5t28dStb0PzvWIhi1KnzlOKSqFwZ4fxcpKkCIQCF1NuE0UaIZaQI6w40Trj-MNdFrngDnBTJPviL25j8Zg%3D%3D/file/index.m3u8
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:0, EuroNews Español
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1709426929/ei/kXTjZfztOb3Q-LAP1qypyAM/ip/2803:a3e0:1272:b330::2/id/O9mOtdZ-nSk.2/itag/232/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr4---sn-fvf2xg0-aphe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/1646250/mh/Ly/mm/44/mn/sn-fvf2xg0-aphe/ms/lva/mv/m/mvi/4/pl/41/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/mt/1709404840/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAIoiNZZjWhlBhhePkW5TaeFTWcS4PoRxqTisJsOLIqQhAiBuPSI7YkrzEPUNth8GqVHrWA9Lcz4fF0aKSjftVH02dA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRQIgVobtYnojikcFlrAk6kL5i7Dy6HHnyHnIu9D2fZG5hT4CIQCQASVUqTPP-T-wljAgTiSCa2JwODET7zGxlEDBWVF3cQ%3D%3D/playlist/index.m3u8
 #EXTINF:0, RTVE Español
@@ -150,14 +152,14 @@ http://f4.tvxweb.net:8082/35974/video.m3u8?token=MxPReBvRE1
 http://f4.tvxweb.net:8082/9040/video.m3u8?token=MxPReBvRE1
 #EXTINF:0, PELICULAS
 http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
-#EXTINF:4, CGTN Documentary
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:5, CGTN English
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:0, Pluto TV Documentaries
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db048f9447d6c0009b8f29d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5db048f9447d6c0009b8f29d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=0d94d79f-0582-11eb-8b9f-0242ac110002&terminate=false&userId=
-#EXTINF:1, RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1, Golden
+http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
+#EXTINF:-1, Golden Edge Panregional
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1, HBO
+http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
+#EXTINF:-1, HBO2
+http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 #EXTINF:1, Nasa Live Stream
 https://www.youtube.com/watch?v=86YLFOog4GM
 #EXTINF:1, People are Awesome
