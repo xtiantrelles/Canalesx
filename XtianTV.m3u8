@@ -53,7 +53,8 @@ https://multimedia.tmcreativos.com:1936/srnxpedqbv/ngrp:srnxpedqbv_all/playlist.
 #EXTINF:0, Reuters
 https://rr4---sn-fvf2xg0-aphe.googlevideo.com/videoplayback?expire=1681898212&ei=hGY_ZPO5B8-WkAOfr5-gBQ&ip=2803%3Aa3e0%3A1272%3Ab330%3A%3A2&id=BVQXGgzll6k.1&itag=140&aitags=140&source=yt_live_broadcast&requiressl=yes&mh=D8&mm=44%2C29&mn=sn-fvf2xg0-aphe%2Csn-cvb7ln7s&ms=lva%2Crdu&mv=m&mvi=4&pl=49&initcwndbps=1207500&spc=99c5CewXZTxc2QOBfJmdAY_7-OXuFSVf5mEXOcMwkflBRPWhE-5DOs4&vprv=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&ns=JYGAkaHX7eb2k34Mi5_s3WYM&gir=yes&mt=1681876107&fvip=2&keepalive=yes&fexp=24007246&c=WEB&n=EmS4WqMheC6F2g&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgSK08ZIM2pOpJzN7wMhUFeD-zNvy5N_z8DJHwCWo0tncCIQCWJAZ1G0TY9a00KGRVSrQC8JPJeBMz7nKUXsDra_kgVQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgen3z0cmUm6-358hKSGZu9jeLZx9gZoIWkNXkJjsvJLMCIB2o45YPjL9l8_KYT5CH2pIab46gI3XzRZgfeFf32hPU&alr=yes&cpn=bpGZH0OQ51KFv2pk&cver=2.20230417.01.00&sq=4924&rn=487&rbuf=9537&pot=Mlt4VdrlaUQPaXhtAVylxja-Fsjhilq2sUMirFJVxfTs9S5fH_Uyzma49mzdMQaedgv2wUlq7klJVyTHWPj9qwO1ZnPf_iWGPldtjXr37JkMWpwKJY4QaE3bCtab
 #EXTINF:0, CNN Español
-http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
+#http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
+http://190.0.241.181:8000/play/a06n/index.m3u8
 #EXTINF:0, RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0,RT Español VK
