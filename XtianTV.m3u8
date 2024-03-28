@@ -18,6 +18,8 @@ https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFnzgYzZWpuOmZyICc8kw3bk7WztUbAUSLse9p0qOMOlA)/dm/3/x774s7s/s/live-3.m3u8
 #EXTINF:0, Panamericana HD
 https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:-1, America TV HD
+http://190.0.241.181:8000/play/a03a/index.m3u8
 #EXTINF:0, ATV
 #https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV3/chunks.m3u8
 https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
