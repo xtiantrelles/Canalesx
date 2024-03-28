@@ -547,8 +547,6 @@ http://181.78.73.221:8000/play/a10j/index.m3u8
 http://181.78.73.221:8000/play/a164/index.m3u8
 #EXTINF:-1,TNT Series HD
 http://181.78.73.221:8000/play/a144/index.m3u8
-#EXTINF:-1,Teleantioquia
-http://181.78.73.221:8000/play/a0wp/index.m3u8
 #EXTINF:-1,Telecafe
 http://181.78.73.221:8000/play/a10x/index.m3u8
 #EXTINF:-1,Telecaribe
@@ -673,20 +671,8 @@ http://181.78.71.5:4890/play/a05b/index.m3u8
 http://181.78.71.5:4890/play/a04b/index.m3u8
 #EXTINF:-1,TNT SERIES
 http://181.78.71.5:4890/play/a04v/index.m3u8
-#EXTINF:-1,TOONCAS
-http://181.78.71.5:4890/play/a05i/index.m3u8
-#EXTINF:-1,TRO
-http://181.78.71.5:4890/play/a04p/index.m3u8
-#EXTINF:-1,Teleantioquia
-http://181.78.71.5:4890/play/a02w/index.m3u8
-#EXTINF:-1,Telecafe
-http://181.78.71.5:4890/play/a032/index.m3u8
-#EXTINF:-1,Teleislas
-http://181.78.71.5:4890/play/a04q/index.m3u8
 #EXTINF:-1,Telemundo
 http://181.78.71.5:4890/play/a03r/index.m3u8
-#EXTINF:-1,Telepacifico
-http://181.78.71.5:4890/play/a02y/index.m3u8
 #EXTINF:-1,Trece
 http://181.78.71.5:4890/play/a033/index.m3u8
 #EXTINF:-1,Universal
