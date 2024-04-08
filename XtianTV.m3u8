@@ -66,7 +66,8 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:0,France24
 http://45.166.92.22:58001/play/a057/index.m3u8
 #EXTINF:0, EuroNews Español
-http://181.119.66.30:8000/play/EURO/index.m3u8
+#http://181.119.66.30:8000/play/EURO/index.m3u8
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0, RTVE Español
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8
 #EXTINF:0, CGTN Spanish
