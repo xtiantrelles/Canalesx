@@ -66,8 +66,8 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:0,France24
 http://45.166.92.22:58001/play/a057/index.m3u8
 #EXTINF:0, EuroNews Español
-#http://181.119.66.30:8000/play/EURO/index.m3u8
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712568276/ei/dGMTZteuFaT51sQPqo6s2A8/ip/179.6.26.134/id/O9mOtdZ-nSk.2/itag/232/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-ja5gv2x-aphe7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/1327500/mh/Ly/mm/44/mn/sn-ja5gv2x-aphe7/ms/lva/mv/m/mvi/1/pl/24/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51141541/mt/1712546181/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRAIgdgcKce6uQpVMBLeibVj_T02av7os1WFglX4VVVTj7hQCIGoF1jw8T1cx1LIbzHovUNfeIPNFNt_jRjVc-fqUG6wS/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhAIHJhAdr3r-Ml-Q9V9Mb5yKzbIsdP3QoW2DslaEpB3jFAiAHdSjFN8eL_owdOUblDgm70vV8oSl6O0xlwchfgjv70Q%3D%3D/playlist/index.m3u8
 #EXTINF:0, RTVE Español
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8
 #EXTINF:0, CGTN Spanish
