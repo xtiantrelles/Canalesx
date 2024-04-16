@@ -216,21 +216,10 @@ https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0,Animal Planet HD
 #EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a00y/index.m3u8
-#EXTINF:0,Animal Planet HD
-#EXTVLCOPT:network-caching=1000
-http://181.119.66.30:8000/play/a04r/index.m3u8
-#EXTINF:0,Animal Planet
-#EXTVLCOPT:network-caching=1000
-http://181.78.71.5:4890/play/a03g/index.m3u8
-#EXTINF:0,ANIMAL PLANET
-#EXTVLCOPT:network-caching=1000
-http://181.78.64.71:16123/play/ch29
 #EXTINF:0,LOVE NATURE HD
 #EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/LOVENATURE/index.m3u8
-#EXTINF:0,Animal Planet SD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a00m/index.m3u8
+
 
 
 
@@ -516,46 +505,25 @@ http://45.166.92.22:58001/play/a02u/index.m3u8
 
 
 #DOCUMENTALES########################################################
-#EXTINF:0,HISTORY CHANNEL
+#EXTINF:0,HISTORY CHANNEL SD
 #EXTVLCOPT:network-caching=1000
 http://181.78.71.5:4890/play/a043/index.m3u8
-#EXTINF:0,HISTORY CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://181.78.73.221:8000/play/a109/index.m3u8
-#EXTINF:0,HISTORY CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://181.119.66.30:8000/play/a03k/index.m3u8
 #EXTINF:0,HISTORY HD
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a038/index.m3u8
 #EXTINF:0,HISTORY 2 HD
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a04x/index.m3u8
-#EXTINF:0,HISTORY 2
-#EXTVLCOPT:network-caching=1000
-http://190.0.241.181:8000/play/a010/index.m3u8
-#EXTINF:0,HISTORY 2 HD
-#EXTVLCOPT:network-caching=1000
-http://181.78.73.221:8000/play/a15e/index.m3u8
-#EXTINF:0,HISTORY 2 HD
-#EXTVLCOPT:network-caching=1000
-http://181.119.66.30:8000/play/a052/index.m3u8
 #EXTINF:0,HISTORY CHANNEL HD
 #EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a04k/index.m3u8
 
-#EXTINF:0,NAT GEO
-#EXTVLCOPT:network-caching=1000
-http://181.78.71.5:4890/play/a061/index.m3u8
-#EXTINF:0,NAT GEO
-#EXTVLCOPT:network-caching=1000
-http://181.78.71.5:4890/play/a042/index.m3u8
 #EXTINF:0,NAT GEO HD
 #EXTVLCOPT:network-caching=1000
-http://181.119.66.30:8000/play/a04i/index.m3u8
-#EXTINF:0,NAT GEO
+http://181.78.71.5:4890/play/a061/index.m3u8
+#EXTINF:0,NAT GEO SD ENG
 #EXTVLCOPT:network-caching=1000
-http://181.78.73.221:8000/play/a108/index.m3u8
+http://181.78.71.5:4890/play/a042/index.m3u8
 #EXTINF:0,NAT GEO HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a14l/index.m3u8
@@ -625,21 +593,6 @@ http://181.78.71.5:4890/play/a03x/index.m3u8
 #EXTINF:0,HOGAR TV
 #EXTVLCOPT:network-caching=1000
 http://181.119.66.30:8000/play/hogar/index.m3u8
-
-
-
-
-
-
-#ADULTOS########################################################
-#EXTINF:0,Playboy HD
-#EXTVLCOPT:network-caching=1000
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:0,Penthouse
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a04c/index.m3u8
-
-
 
 
 
@@ -733,4 +686,3 @@ http://181.119.66.30:8000/play/a04b/index.m3u8
 #EXTINF:0,MTV SIM HD
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a018/index.m3u8
-
