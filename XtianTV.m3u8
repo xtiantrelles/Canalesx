@@ -18,7 +18,7 @@ http://190.0.241.181:8000/play/a03a/index.m3u8
 #EXTINF:0,PANAMERICANA SD
 #EXTVLCOPT:network-caching=1000
 #https://live-b.cf.dmcdn.net/sec2(O4eOg9xRv1Vf2YDil11OJzd8Xeo_MQKX2pTgeuBnjwZM06UaTpVPWeUnpeQ7xDHTU-1ZgoZXRK2BC8c_nVNDPhZSh36HZCIFEdjkmCPi_24)/dm/3/x774s7s/s/live-3.m3u8
-https://live-b.cf.dmcdn.net/sec2(MCPENcfLQa9QhDoTFjM1xGI7g85bP-YHdWvw3ps0qnbEtqj5G5WNHZ_s1--pg0_tfL6hywh61NwfrczCKcJiKaA7O3hq3UjC6AHNn0Efe7E)/dm/3/x774s7s/s/live-3.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(nEZl21yqltkHLTUjMDebF9TcZrMGjK5M2kJXxYgXR5S7IvDQMMWlv8q7A2Rh0d5Le49Rm_yw5CHex4nM_fYHYQBmxKK3QpVDshcueANWbLo)/dm/3/x774s7s/s/live-3.m3u8#cell=lcfb
 #EXTINF:0,ATV SD
 #EXTVLCOPT:network-caching=1000
 https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
