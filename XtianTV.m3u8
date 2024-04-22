@@ -39,6 +39,9 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w553159301.m3u8
 #EXTINF:0,NATIVA
 #EXTVLCOPT:network-caching=1000
 https://servilive.com:3449/live/mlecaroslive.m3u8
+#EXTINF:0,WILLAX
+#EXTVLCOPT:network-caching=1000
+https://live-b.cf.dmcdn.net/sec2(V1kyb0nRuMUHvy8eAWBw6mLjxbT8_gs3IdN63e7-c2qCh-ivJijR9GEiRjsmzEz-xA011jGT8yDWVv9b_JizTd57stW76qwlZbWROxC_ARQ)/dm/3/x7x4dgx/s/live-1.m3u8
 
 
 
