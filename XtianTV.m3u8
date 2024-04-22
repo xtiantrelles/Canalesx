@@ -17,7 +17,8 @@ https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 http://190.0.241.181:8000/play/a03a/index.m3u8
 #EXTINF:0,PANAMERICANA SD
 #EXTVLCOPT:network-caching=1000
-https://live-b.cf.dmcdn.net/sec2(O4eOg9xRv1Vf2YDil11OJzd8Xeo_MQKX2pTgeuBnjwZM06UaTpVPWeUnpeQ7xDHTU-1ZgoZXRK2BC8c_nVNDPhZSh36HZCIFEdjkmCPi_24)/dm/3/x774s7s/s/live-3.m3u8
+#https://live-b.cf.dmcdn.net/sec2(O4eOg9xRv1Vf2YDil11OJzd8Xeo_MQKX2pTgeuBnjwZM06UaTpVPWeUnpeQ7xDHTU-1ZgoZXRK2BC8c_nVNDPhZSh36HZCIFEdjkmCPi_24)/dm/3/x774s7s/s/live-3.m3u8
+https://live-b.cf.dmcdn.net/sec2(MCPENcfLQa9QhDoTFjM1xGI7g85bP-YHdWvw3ps0qnbEtqj5G5WNHZ_s1--pg0_tfL6hywh61NwfrczCKcJiKaA7O3hq3UjC6AHNn0Efe7E)/dm/3/x774s7s/s/live-3.m3u8#cell=lcfb
 #EXTINF:0,ATV SD
 #EXTVLCOPT:network-caching=1000
 https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
@@ -205,13 +206,43 @@ https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
-#DOCUMENTAL########################################################
+#DOCUMENTALES########################################################
 #EXTINF:0,Animal Planet HD
 #EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a00y/index.m3u8
 #EXTINF:0,LOVE NATURE HD
 #EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/LOVENATURE/index.m3u8
+#EXTINF:0,HISTORY CHANNEL SD
+#EXTVLCOPT:network-caching=1000
+http://181.78.71.5:4890/play/a043/index.m3u8
+#EXTINF:0,HISTORY HD
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a038/index.m3u8
+#EXTINF:0,HISTORY 2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a04x/index.m3u8
+#EXTINF:0,HISTORY CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://190.0.241.181:8000/play/a04k/index.m3u8
+#EXTINF:0,NAT GEO HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.71.5:4890/play/a061/index.m3u8
+#EXTINF:0,NATIONAL GEOGRAPHIC
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a032/index.m3u8
+#EXTINF:0,DISCOVERY CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a01n/index.m3u8
+#EXTINF:0,DISCOVERY HD
+#EXTVLCOPT:network-caching=1000
+http://181.119.66.30:8000/play/a051/index.m3u8
+#EXTINF:0,CGTN DOCUMENTAL
+#EXTVLCOPT:network-caching=1000
+http://181.119.66.30:8000/play/45/index.m3u8
+#EXTINF:0,DISCOVERY WORLD HD
+#EXTVLCOPT:network-caching=1000
+http://181.119.66.30:8000/play/a04j/index.m3u8
 
 
 
@@ -498,41 +529,7 @@ http://45.166.92.22:58001/play/a02u/index.m3u8
 
 
 
-#DOCUMENTALES########################################################
-#EXTINF:0,HISTORY CHANNEL SD
-#EXTVLCOPT:network-caching=1000
-http://181.78.71.5:4890/play/a043/index.m3u8
-#EXTINF:0,HISTORY HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a038/index.m3u8
-#EXTINF:0,HISTORY 2 HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a04x/index.m3u8
-#EXTINF:0,HISTORY CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://190.0.241.181:8000/play/a04k/index.m3u8
 
-#EXTINF:0,NAT GEO HD
-#EXTVLCOPT:network-caching=1000
-http://181.78.71.5:4890/play/a061/index.m3u8
-#EXTINF:0,NATIONAL GEOGRAPHIC
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a032/index.m3u8
-
-#EXTINF:0,DISCOVERY CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a01n/index.m3u8
-#EXTINF:0,DISCOVERY HD
-#EXTVLCOPT:network-caching=1000
-http://181.119.66.30:8000/play/a051/index.m3u8
-
-#EXTINF:0,CGTN DOCUMENTAL
-#EXTVLCOPT:network-caching=1000
-http://181.119.66.30:8000/play/45/index.m3u8
-
-#EXTINF:0,DISCOVERY WORLD HD
-#EXTVLCOPT:network-caching=1000
-http://181.119.66.30:8000/play/a04j/index.m3u8
 
 
 
