@@ -17,7 +17,7 @@ https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 http://190.0.241.181:8000/play/a03a/index.m3u8
 #EXTINF:0,PANAMERICANA SD
 #EXTVLCOPT:network-caching=1000
-https://live-b.cf.dmcdn.net/sec2(nEZl21yqltkHLTUjMDebF9TcZrMGjK5M2kJXxYgXR5S7IvDQMMWlv8q7A2Rh0d5Le49Rm_yw5CHex4nM_fYHYQBmxKK3QpVDshcueANWbLo)/dm/3/x774s7s/s/live-3.m3u8
+https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:0,ATV SD
 #EXTVLCOPT:network-caching=1000
 https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
@@ -615,21 +615,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4
 #EXTINF:0,MTV Classic
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0,HTV
+#EXTINF:0,HTV SD
 #EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a06u/index.m3u8
-#EXTINF:0,HTV
-#EXTVLCOPT:network-caching=1000
-http://181.78.64.71:16123/play/a08x
-#EXTINF:0,HTV
-#EXTVLCOPT:network-caching=1000
-http://181.78.71.5:4890/play/a05y/index.m3u8
-#EXTINF:0,HTV
-#EXTVLCOPT:network-caching=1000
-http://181.119.66.30:8000/play/a07a/index.m3u8
-#EXTINF:0,HTV
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a051/index.m3u8
 #EXTINF:0,MI MUSICASALSA
 #EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a01o/index.m3u8
