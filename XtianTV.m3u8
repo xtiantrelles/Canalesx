@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0,IPTV EDITADA.m3u8
-IPTV%20EDITADA.m3u8
 #EXTINF:39,TV PERU HD
 #EXTVLCOPT:network-caching=1000
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
