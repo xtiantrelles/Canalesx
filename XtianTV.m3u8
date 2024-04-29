@@ -1,6 +1,7 @@
 #EXTM3U
-#NACIONALES########################################################
-#EXTINF:0,TV PERU HD
+#EXTINF:0,IPTV EDITADA.m3u8
+IPTV%20EDITADA.m3u8
+#EXTINF:39,TV PERU HD
 #EXTVLCOPT:network-caching=1000
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:0,TV PERU INTERNACIONAL SD
@@ -39,16 +40,13 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w553159301.m3u8
 #EXTINF:0,NATIVA
 #EXTVLCOPT:network-caching=1000
 https://servilive.com:3449/live/mlecaroslive.m3u8
-#EXTINF:0,WILLAX
-#EXTVLCOPT:network-caching=1000
-https://live-b.cf.dmcdn.net/sec2(V1kyb0nRuMUHvy8eAWBw6mLjxbT8_gs3IdN63e7-c2qCh-ivJijR9GEiRjsmzEz-xA011jGT8yDWVv9b_JizTd57stW76qwlZbWROxC_ARQ)/dm/3/x7x4dgx/s/live-1.m3u8
+#EXTINF:29,WillaxTV - WillaxTV
+https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=DcTPX3JZopEHrzL3WpiDmY0QPGScW-6w5fR0nRj1eMPrtZIxvpbwYdxdnjeLG1ds&dmTs=300502&dmV1st=a0328a1b-1dd7-4ea8-b106-195015ab2f4d
 
 
 
 
 
-
-#INTERNACIONALES########################################################
 #EXTINF:0,CNN ESPANOL SD
 #EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a06n/index.m3u8
@@ -75,7 +73,6 @@ http://45.166.92.22:58001/play/a04p/index.m3u8
 
 
 
-#PLUTO########################################################
 #EXTINF:0, PLUTO TV VIAJES SD
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -178,8 +175,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d9
 
 
 
-
-#RAKUTEN########################################################
 #EXTINF:0, RAKUTEN TV ACTION MOVIES
 #EXTVLCOPT:network-caching=1000
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
@@ -208,32 +203,28 @@ https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
-#DOCUMENTALES########################################################
 #EXTINF:0,ANIMAL PLANET HD
 #EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a00y/index.m3u8
 #EXTINF:0,LOVE NATURE HD
 #EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/LOVENATURE/index.m3u8
-#EXTINF:0,HISTORY CHANNEL SD
+#EXTINF:11,History Channel
 #EXTVLCOPT:network-caching=1000
 http://181.78.71.5:4890/play/a043/index.m3u8
-#EXTINF:0,HISTORY HD
+#EXTINF:11,HISTORY HD
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a038/index.m3u8
-#EXTINF:0,HISTORY 2 HD
+#EXTINF:11,HISTORY 2 HD
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a04x/index.m3u8
-#EXTINF:0,HISTORY CHANNEL HD
+#EXTINF:11,HISTORY CHANNEL HD
 #EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a04k/index.m3u8
-#EXTINF:0,NAT GEO HD
+#EXTINF:11,NAT GEO HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.71.5:4890/play/a061/index.m3u8
-#EXTINF:0,NATIONAL GEOGRAPHIC
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a032/index.m3u8
-#EXTINF:0,DISCOVERY CHANNEL HD
+#EXTINF:11,DISCOVERY CHANNEL HD
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF:0,DISCOVERY HD
@@ -252,8 +243,7 @@ http://181.119.66.30:8000/play/a04j/index.m3u8
 
 
 
-#PELICULAS########################################################
-#EXTINF:0,A&E SD
+#EXTINF:11,A&E SD
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTINF:0,AMC HD
@@ -424,22 +414,19 @@ http://45.166.92.22:58001/play/a00o/index.m3u8
 #EXTINF:0,UNIVISION HD
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a01r/index.m3u8
-#EXTINF:0,DISCOVERY THEATHER SD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a014/index.m3u8
-#EXTINF:0,DISCOVERY THEATER HD
+#EXTINF:11,DISCOVERY THEATER HD
 #EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a02i/index.m3u8
-#EXTINF:0,DISCOVERY ID HD
+#EXTINF:11,Discovery ID HD
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a01s/index.m3u8
-#EXTINF:0,DISCOVERY TURBO SD
+#EXTINF:11,DISCOVERY TURBO SD
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a026/index.m3u8
 #EXTINF:0,DISCOVERY HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.64.71:16123/play/ch22
-#EXTINF:0,DISCOVERY WORLD HD ENG
+#EXTINF:11,DISCOVERY WORLD HD ENG
 #EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a14m/index.m3u8
 #EXTINF:0,E! HD
@@ -453,11 +440,6 @@ http://181.78.64.71:16123/play/ch23
 
 
 
-
-
-
-
-#DEPORTES########################################################
 #EXTINF:0,ESPN 2 SD
 #EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a06z/index.m3u8
@@ -490,7 +472,7 @@ http://45.166.92.22:58001/play/a04k/index.m3u8
 
 
 
-#INFANTILES########################################################
+
 #EXTINF:0,DISNEY CHANNEL SD
 #EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a0yt/index.m3u8
@@ -530,40 +512,21 @@ http://45.166.92.22:58001/play/a02u/index.m3u8
 
 
 
-
-
-
-
-
-
-#HOME########################################################
 #EXTINF:0,EL GOURMET
 #EXTVLCOPT:network-caching=1000
 http://181.78.64.71:16123/play/ch27
 #EXTINF:0,FOOD NETWORK
 #EXTVLCOPT:network-caching=1000
 http://181.78.64.71:16123/play/ch28
-#EXTINF:0,DISCOVERY H&H HD
+#EXTINF:11,DISCOVERY H&H HD
 #EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a039/index.m3u8
-#EXTINF:0,DISCOVERY H&H
-#EXTVLCOPT:network-caching=1000
-http://181.78.64.71:16123/play/ch25
-#EXTINF:0,DISCOVERY H&H HD
-#EXTVLCOPT:network-caching=1000
-http://181.78.73.221:8000/play/a13v/index.m3u8
 #EXTINF:0,DISCOVERY H&H HD
 #EXTVLCOPT:network-caching=1000
 http://181.119.66.30:8000/play/a048/index.m3u8
-#EXTINF:0,DISCOVERY HOME & HEALTH
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a027/index.m3u8
-#EXTINF:0,HOME & HEALTH HD
+#EXTINF:11,HOME & HEALTH HD
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a015/index.m3u8
-#EXTINF:0,HOMEANDHEALTH
-#EXTVLCOPT:network-caching=1000
-http://181.78.71.5:4890/play/a03x/index.m3u8
 #EXTINF:0,HOGAR TV
 #EXTVLCOPT:network-caching=1000
 http://181.119.66.30:8000/play/hogar/index.m3u8
@@ -572,7 +535,7 @@ http://181.119.66.30:8000/play/hogar/index.m3u8
 
 
 
-#MUSICALES########################################################
+
 #EXTINF:0,QELLO CONCERTS BY STINGRAY
 #EXTVLCOPT:network-caching=1000
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
@@ -606,7 +569,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1d
 #EXTINF:0,VH1 CLASSICS
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0,VH1+ â PLUTO TV
+#EXTINF:0,VH1+ – PLUTO TV
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61cd822216e2fd00086d0aeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0,MTV PLUTO TV
@@ -654,26 +617,24 @@ http://45.166.92.22:58001/play/a018/index.m3u8
 
 
 
-#RELIGIOSOS########################################################
-#EXTINF:-1 group-title="ASD Español",EsperanzaTv [HD]
+#EXTINF:0,EsperanzaTv [HD]
 http://bcliveuniv-lh.akamaihd.net/i/Esperanza_1@193090/master.m3u8
-#EXTINF:-1 group-title="ASD Español",3ABN Latino [SD]
+#EXTINF:0,3ABN Latino [SD]
 http://moiptvus-lh.akamaihd.net/i/moiptv2_1@304497/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="ASD Español",Nuevo Tiempo [SD]
+#EXTINF:0,Nuevo Tiempo [SD]
 rtsp://stream.novotempo.com:1935/tv/tvnuevotiempo.stream
-#EXTINF:-1 group-title="ASD Español",llbn latino [SD]
+#EXTINF:0,llbn latino [SD]
 rtmp://cp45648.live.edgefcs.net/live/T01587-latino@94847
-#EXTINF:-1 group-title="ASD Español",Red Advenir [SD]
+#EXTINF:0,Red Advenir [SD]
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
-#EXTINF:-1 group-title="ASD Español",Alfa tv [SD]
+#EXTINF:0,Alfa tv [SD]
 http://streamer1.streamhost.org:1935/salive/GMIalfah/playlist.m3u8
-#EXTINF:-1 group-title="PAX TV",PAX TV
+#EXTINF:0,PAX TV
 https://venyvenplayer.paxtv.org/out/v1/6657a374459f4821b404e16161c98588/playlist_1280x720_3300k.m3u8
 #EXTINF:166, JN19 | PE
 https://servilive.com:3028/live/jntv19live.m3u8?PlaylistM3UCL
 #EXTINF:30, Vida Nueva TV | CL
 https://stmv5.voxtvhd.com.br/vidanuevatv/vidanuevatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:24, VP Televisión | CL
 https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8?PlaylistM3UCL
 #EXTINF:31, Canal 6 - Viento Recio Internacional | AR
 https://stmvideo2.livecastv.com/vientorecio/vientorecio/playlist.m3u8?PlaylistM3UCL
