@@ -23,23 +23,23 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 #EXTINF:0,ATV+ SD
 #EXTVLCOPT:network-caching=1000
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+#EXTINF:0,EXITOSA TV
+#EXTVLCOPT:network-caching=1000
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/tracks-v1/index.fmp4.m3u8
+#EXTINF:0,NATIVA
+#EXTVLCOPT:network-caching=1000
+https://servilive.com:3449/live/mlecaroslive.m3u8
+#EXTINF:29,WillaxTV - WillaxTV
+https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=DcTPX3JZopEHrzL3WpiDmY0QPGScW-6w5fR0nRj1eMPrtZIxvpbwYdxdnjeLG1ds&dmTs=300502&dmV1st=a0328a1b-1dd7-4ea8-b106-195015ab2f4d
 #EXTINF:0,NACIONAL TV PERU
 #EXTVLCOPT:network-caching=1000
 https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 #EXTINF:0,BHTV
 #EXTVLCOPT:network-caching=1000
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
-#EXTINF:0,EXITOSA TV
-#EXTVLCOPT:network-caching=1000
-https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:0,KARIBENA
 #EXTVLCOPT:network-caching=1000
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w553159301.m3u8
-#EXTINF:0,NATIVA
-#EXTVLCOPT:network-caching=1000
-https://servilive.com:3449/live/mlecaroslive.m3u8
-#EXTINF:29,WillaxTV - WillaxTV
-https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=DcTPX3JZopEHrzL3WpiDmY0QPGScW-6w5fR0nRj1eMPrtZIxvpbwYdxdnjeLG1ds&dmTs=300502&dmV1st=a0328a1b-1dd7-4ea8-b106-195015ab2f4d
 
 
 
