@@ -1,44 +1,31 @@
 #EXTM3U
 #EXTINF:39,TV PERU HD
-#EXTVLCOPT:network-caching=1000
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:0,TV PERU INTERNACIONAL SD
-#EXTVLCOPT:network-caching=1000
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:0,TV PERU NOTICIAS HD
-#EXTVLCOPT:network-caching=1000
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:0,LATINA SD
-#EXTVLCOPT:network-caching=1000
 https://jireh-1-hls-video-pe-movistar.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b13197363451366403959b6035&ndvc=0&sid=ba5t1l1xb447172766640395c50479
 #EXTINF:0,AMERICA TV HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a03a/index.m3u8
 #EXTINF:0,PANAMERICANA SD
-#EXTVLCOPT:network-caching=1000
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:0,ATV SD
-#EXTVLCOPT:network-caching=1000
 https://alba-pe-atv-atv.stream.mediatiquestream.com/720p.m3u8
 #EXTINF:0,ATV+ SD
-#EXTVLCOPT:network-caching=1000
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/720p.m3u8
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
 #EXTINF:0,EXITOSA TV
-#EXTVLCOPT:network-caching=1000
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 #EXTINF:0,NATIVA
-#EXTVLCOPT:network-caching=1000
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:29,WILLAX TV
 https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=DcTPX3JZopEHrzL3WpiDmY0QPGScW-6w5fR0nRj1eMPrtZIxvpbwYdxdnjeLG1ds&dmTs=300502&dmV1st=a0328a1b-1dd7-4ea8-b106-195015ab2f4d
 #EXTINF:0,NACIONAL TV PERU
-#EXTVLCOPT:network-caching=1000
 https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 #EXTINF:0,BHTV
-#EXTVLCOPT:network-caching=1000
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
 #EXTINF:0,KARIBENA
-#EXTVLCOPT:network-caching=1000
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w553159301.m3u8
 
 
@@ -46,25 +33,18 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w553159301.m3u8
 
 
 #EXTINF:0,CNN ESPANOL SD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a06n/index.m3u8
 #EXTINF:0,RT ESPANOL
-#EXTVLCOPT:network-caching=1000
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0,DW ESPANOL
-#EXTVLCOPT:network-caching=1000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:0,FRANCE24 ESPANOL HD
-#EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:0,RTVE ESPANOL SD
-#EXTVLCOPT:network-caching=1000
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8
 #EXTINF:0,CGTN ESPANOL HD
-#EXTVLCOPT:network-caching=1000
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:0,FOX NEWS HD ENG
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a04p/index.m3u8
 
 
@@ -72,100 +52,68 @@ http://45.166.92.22:58001/play/a04p/index.m3u8
 
 
 #EXTINF:0, PLUTO TV VIAJES SD
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, MUNDO GEEK SD
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PLUTO TV AVENTURA
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PLUTO TV CINE ACCION
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PLUTO TV CINE DRAMA
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PLUTO TV CINE ESTELAR
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PLUTO TV CINE SUSPENSO
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PLUTO TV CINE PREMIERE
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PLUTO TV CINE CRIMEN
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PLUTO TV CINE TERROR
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PLUTO TV ANIMALES
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PLUTO TV NATURALEZA
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PLUTO TV CIENCIA
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PLUTO TV HISTORIA
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PLUTO TV CINE
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PLUTO TV AVENTURA
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PLUTO TV CINE FAMILIA
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PLUTO TV INVESTIGA
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, LOS ARCHIVOS DEL FBI
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, ARCHIVOS FORENSES
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, CAZADOR DE HOMICIDAS
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, CSI EN ESPANOL
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604928d54a4f730007ff76bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=-1&deviceLon=-1&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, MISTERIOS MEDICOS
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, THE NIGHT SHIFT
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, EMERGENCIA 911
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492a1e6361250007679665/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=-1&deviceLon=-1&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, MISTERIOS SIN RESOLVER
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, Pluto TV Cine Clasico
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PLUTO TV SERIES RETRO
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, LA LIGA PREMIER | PARAMOUNT+
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, COMEDY CENTRAL
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PLUTO TV HUMOR
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, PAISAJES POR STINGRAY
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
@@ -174,25 +122,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d9
 
 
 #EXTINF:0, RAKUTEN TV ACTION MOVIES
-#EXTVLCOPT:network-caching=1000
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0, RAKUTEN TV SPOTLIGHT
-#EXTVLCOPT:network-caching=1000
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0, MY TIME MOVIE NETWORK
-#EXTVLCOPT:network-caching=1000
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0, RAKUTEN TV COMEDY MOVIES
-#EXTVLCOPT:network-caching=1000
 https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0, RAKUTEN TV TOP FREE
-#EXTVLCOPT:network-caching=1000
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0, RAKUTEN TV FAMILY
-#EXTVLCOPT:network-caching=1000
 https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0, RAKUTEN TV SHOWS
-#EXTVLCOPT:network-caching=1000
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 
@@ -202,37 +143,26 @@ https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 #EXTINF:0,ANIMAL PLANET HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a00y/index.m3u8
 #EXTINF:0,LOVE NATURE HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/LOVENATURE/index.m3u8
 #EXTINF:11,History Channel
-#EXTVLCOPT:network-caching=1000
 http://181.78.71.5:4890/play/a043/index.m3u8
 #EXTINF:11,HISTORY HD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a038/index.m3u8
 #EXTINF:11,HISTORY 2 HD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a04x/index.m3u8
 #EXTINF:11,HISTORY CHANNEL HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a04k/index.m3u8
 #EXTINF:11,NAT GEO HD
-#EXTVLCOPT:network-caching=1000
 http://181.78.71.5:4890/play/a061/index.m3u8
 #EXTINF:11,DISCOVERY CHANNEL HD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF:0,DISCOVERY HD
-#EXTVLCOPT:network-caching=1000
 http://181.119.66.30:8000/play/a051/index.m3u8
 #EXTINF:0,CGTN DOCUMENTAL
-#EXTVLCOPT:network-caching=1000
 http://181.119.66.30:8000/play/45/index.m3u8
 #EXTINF:0,DISCOVERY WORLD HD
-#EXTVLCOPT:network-caching=1000
 http://181.119.66.30:8000/play/a04j/index.m3u8
 
 
@@ -242,196 +172,132 @@ http://181.119.66.30:8000/play/a04j/index.m3u8
 
 
 #EXTINF:11,A&E SD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTINF:0,AMC HD
-#EXTVLCOPT:network-caching=1000
 http://181.78.64.71:16123/play/ch13
 #EXTINF:0,ATRES SERIES HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a04o/index.m3u8
 #EXTINF:0,AXN HD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a02n/index.m3u8
 #EXTINF:0,CINEFAMILIAR HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/CINEFAMILIAR/index.m3u8
 #EXTINF:0,CINEPREMIUM HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/CINEPREMIUM/index.m3u8
 #EXTINF:0,CANAL UNO SD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a05k/index.m3u8
 #EXTINF:0,CINECANAL HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a01h/index.m3u8
 #EXTINF:0,CINEMAX HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a04p/index.m3u8
 #EXTINF:0,CINEMAX SD
-#EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a0wk/index.m3u8
 #EXTINF:0,DHE HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/DHE/index.m3u8
 #EXTINF:0,FX HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a02k/index.m3u8
 #EXTINF:0,LIFETIME SD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a06v/index.m3u8
 #EXTINF:0,GOLDEN+ HD
-#EXTVLCOPT:network-caching=1000
 http://181.78.64.71:16123/play/ch46
 #EXTINF:0,GOLDEN EDGE SD
-#EXTVLCOPT:network-caching=1000
 http://181.78.64.71:16123/play/ch47
 #EXTINF:0,SPACE HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a04n/index.m3u8
 #EXTINF:0,PARAMOUNT HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a01f/index.m3u8
 #EXTINF:0,SONY CINE SD
-#EXTVLCOPT:network-caching=1000
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:0,SONY CHANNEL HD ENG
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a04a/index.m3u8
 #EXTINF:0,SONY CHANNEL HD ENG
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a05g/index.m3u8
 #EXTINF:0,STUDIO UNIVERSAL HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a01g/index.m3u8
 #EXTINF:11,TNT HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a037/index.m3u8
 #EXTINF:0,TNT SERIES HD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a01m/index.m3u8
 #EXTINF:0,TNT SERIES ENG
-#EXTVLCOPT:network-caching=1000
 http://181.78.71.5:4890/play/a04v/index.m3u8
 #EXTINF:0,TNT NOVELAS HD
-#EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a164/index.m3u8
 #EXTINF:0,UNIVERSAL SD
-#EXTVLCOPT:network-caching=1000
 http://181.78.71.5:4890/play/a05j/index.m3u8
 #EXTINF:0,UNIVERSAL CHANNEL HD
-#EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a13y/index.m3u8
 #EXTINF:0,UNIVERSAL CINEMA HD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a01t/index.m3u8
 #EXTINF:0,ISAT
-#EXTVLCOPT:network-caching=1000
 http://181.78.64.71:16123/play/ch77
 #EXTINF:0,HBO HD ENG
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a03s/index.m3u8
 #EXTINF:0,HBO+ HD ENG
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a03u/index.m3u8
 #EXTINF:0,HBO HD
-#EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a15x/index.m3u8
 #EXTINF:0,HBO XTREME HD ENG
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a03w/index.m3u8
 #EXTINF:0,HBO2 HD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a03t/index.m3u8
 #EXTINF:0,WARNER CHANNEL HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a03d/index.m3u8
 #EXTINF:0,WARNER HD ENG
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a049/index.m3u8
 #EXTINF:0,TCM SD
-#EXTVLCOPT:network-caching=1000
 http://181.78.71.5:4890/play/a049/index.m3u8
 #EXTINF:0,TLC SD
-#EXTVLCOPT:network-caching=1000
 http://181.78.64.71:16123/play/ch26
 #EXTINF:0,STAR CHANNEL HD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a048/index.m3u8
 #EXTINF:0,STAR CHANNEL HD ENG
-#EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a13x/index.m3u8
 #EXTINF:0,STAR TVE HD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a00x/index.m3u8
 #EXTINF:0,STAR HD
-#EXTVLCOPT:network-caching=1000
 http://181.78.64.71:16123/play/ch07
 #EXTINF:0,TLT HD
-#EXTVLCOPT:network-caching=1000
 http://181.119.66.30:8000/play/51/index.m3u8
 #EXTINF:0,ID HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a02g/index.m3u8
 #EXTINF:0,TELEMUNDO SD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/TELEMUNDO/index.m3u8
 #EXTINF:0,TRUTV HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a02h/index.m3u8
 #EXTINF:0,MAS CHIC SD
-#EXTVLCOPT:network-caching=1000
 http://181.78.64.71:16123/play/ch33
 #EXTINF:0,GLITZ SD
-#EXTVLCOPT:network-caching=1000
 http://181.78.64.71:16123/play/ch34
 #EXTINF:0,SUN CHANNEL HD
-#EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a15z/index.m3u8
 #EXTINF:0,LAS ESTRELLAS HD
-#EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a15a/index.m3u8
 #EXTINF:0,SYFY SD
-#EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a10r/index.m3u8
 #EXTINF:0,Telemundo SD
-#EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a0zl/index.m3u8
 #EXTINF:0,A&E Mundo SD
-#EXTVLCOPT:network-caching=1000
 http://181.78.71.5:4890/play/a03n/index.m3u8
 #EXTINF:0,Antena 3 SD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a041/index.m3u8
 #EXTINF:0,Europa HD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a00t/index.m3u8
 #EXTINF:0,FILM & ARTS SD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a00o/index.m3u8
 #EXTINF:0,UNIVISION HD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a01r/index.m3u8
 #EXTINF:11,DISCOVERY THEATER HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a02i/index.m3u8
 #EXTINF:11,Discovery ID HD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a01s/index.m3u8
 #EXTINF:11,DISCOVERY TURBO SD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a026/index.m3u8
 #EXTINF:0,DISCOVERY HD
-#EXTVLCOPT:network-caching=1000
 http://181.78.64.71:16123/play/ch22
 #EXTINF:11,DISCOVERY WORLD HD ENG
-#EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a14m/index.m3u8
 #EXTINF:0,E! HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a03f/index.m3u8
 #EXTINF:0,ID HD
-#EXTVLCOPT:network-caching=1000
 http://181.78.64.71:16123/play/ch23
 
 
@@ -439,31 +305,22 @@ http://181.78.64.71:16123/play/ch23
 
 
 #EXTINF:0,ESPN 2 SD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a06z/index.m3u8
 #EXTINF:0,ESPN 3 SD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a02e/index.m3u8
 #EXTINF:0,ESPN 5 HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a033/index.m3u8
 #EXTINF:0,ESPN SD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a03k/index.m3u8
 #EXTINF:0,ESPN 6 HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a02f/index.m3u8
 #EXTINF:0,ESPN 7 HD
-#EXTVLCOPT:network-caching=1000
 http://181.78.64.71:16123/play/ch20
 #EXTINF:0,ESPN PREMIUN HD
-#EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a15d/index.m3u8
 #EXTINF:0,ESPN  HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a02j/index.m3u8
 #EXTINF:0,GOL TV HD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a04k/index.m3u8
 
 
@@ -472,37 +329,26 @@ http://45.166.92.22:58001/play/a04k/index.m3u8
 
 
 #EXTINF:0,DISNEY CHANNEL SD
-#EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a0yt/index.m3u8
 #EXTINF:0,DISNEY HD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a04q/index.m3u8
 #EXTINF:0,BABY TV SD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a06p/index.m3u8
 #EXTINF:0,BABYFIRST
-#EXTVLCOPT:network-caching=1000
 http://181.78.71.5:4890/play/a04d/index.m3u8
 #EXTINF:0,DISCOVERY KIDS HD
-#EXTVLCOPT:network-caching=1000
 http://181.78.71.5:4890/play/a062/index.m3u8
 #EXTINF:0,CARTOON NETWORK HD ENG
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a00l/index.m3u8
 #EXTINF:0,CARTOON NT HD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a03y/index.m3u8
 #EXTINF:0,CARTOON NETWORK
-#EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a10i/index.m3u8
 #EXTINF:0,CARTOON NETWORK HD ENG
-#EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a14q/index.m3u8
 #EXTINF:0,TOONCAST SD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a06h/index.m3u8
 #EXTINF:0,BOOMERANG SD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a02u/index.m3u8
 
 
@@ -511,22 +357,16 @@ http://45.166.92.22:58001/play/a02u/index.m3u8
 
 
 #EXTINF:0,EL GOURMET
-#EXTVLCOPT:network-caching=1000
 http://181.78.64.71:16123/play/ch27
 #EXTINF:0,FOOD NETWORK
-#EXTVLCOPT:network-caching=1000
 http://181.78.64.71:16123/play/ch28
 #EXTINF:11,DISCOVERY H&H HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a039/index.m3u8
 #EXTINF:0,DISCOVERY H&H HD
-#EXTVLCOPT:network-caching=1000
 http://181.119.66.30:8000/play/a048/index.m3u8
 #EXTINF:11,HOME & HEALTH HD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a015/index.m3u8
 #EXTINF:0,HOGAR TV
-#EXTVLCOPT:network-caching=1000
 http://181.119.66.30:8000/play/hogar/index.m3u8
 
 
@@ -535,79 +375,54 @@ http://181.119.66.30:8000/play/hogar/index.m3u8
 
 
 #EXTINF:0,QELLO CONCERTS BY STINGRAY
-#EXTVLCOPT:network-caching=1000
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,STINGRAY POP ADULT
-#EXTVLCOPT:network-caching=1000
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,STINGRAY CLASSIC ROCK
-#EXTVLCOPT:network-caching=1000
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,STINGRAY EVERYTHING '80S
-#EXTVLCOPT:network-caching=1000
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,STINGRAY FLASHBACK 70'S
-#EXTVLCOPT:network-caching=1000
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,STINGRAY NOTHIN' BUT 90S
-#EXTVLCOPT:network-caching=1000
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,STINGRAY ROCK ALTERNATIVE
-#EXTVLCOPT:network-caching=1000
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,VEVO 80S
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=-1&deviceLon=-1&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0,VEVO 90S
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=-1&deviceLon=-1&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0,KARAOKE POR STINGRAY
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0,VH1 CLASSICS
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0,VH1+ – PLUTO TV
-#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61cd822216e2fd00086d0aeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0,MTV PLUTO TV
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0,MTV Classic
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0,HTV SD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a06u/index.m3u8
 #EXTINF:0,MI MUSICASALSA
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a01o/index.m3u8
 #EXTINF:0,MTV 00s
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a05v/index.m3u8
 #EXTINF:0,MTV HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a01m/index.m3u8
 #EXTINF:0,MTV LIVE HD
-#EXTVLCOPT:network-caching=1000
 http://190.0.241.181:8000/play/a04s/index.m3u8
 #EXTINF:0,MTV
-#EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a10d/index.m3u8
 #EXTINF:0,MTV HD
-#EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a159/index.m3u8
 #EXTINF:0,MTV LIVE HD
-#EXTVLCOPT:network-caching=1000
 http://181.78.73.221:8000/play/a13z/index.m3u8
 #EXTINF:0,MTV
-#EXTVLCOPT:network-caching=1000
 http://181.78.71.5:4890/play/a047/index.m3u8
 #EXTINF:0,MTV LIVE HD
-#EXTVLCOPT:network-caching=1000
 http://181.119.66.30:8000/play/a04b/index.m3u8
 #EXTINF:0,MTV SIM HD
-#EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a018/index.m3u8
 
 
