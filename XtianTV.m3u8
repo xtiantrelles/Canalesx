@@ -12,7 +12,7 @@ http://190.0.241.181:8000/play/a03a/index.m3u8
 #EXTINF:0,PANAMERICANA SD
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:0,ATV SD
-https://alba-pe-atv-atv.stream.mediatiquestream.com/720p.m3u8
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,ATV+ SD
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
 #EXTINF:0,EXITOSA TV
