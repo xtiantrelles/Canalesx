@@ -12,7 +12,7 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 http://190.0.241.181:8000/play/a03a/index.m3u8
 #EXTINF:0,PANAMERICANA SD
 #https://cdnhd.iblups.com/hls/ptv5.m3u8
-https://www.twitch.tv/panamericanatvpe
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpYGVwXx6adn5Ni0pG9O1bxlLQi7ZO9UGwVWLtqK08pADJdDi7f-zbVK7GhpLeKVmPVVbjzlzz6y6yiX_p7Y8mBYjxSwwVvtnYWwJj3bslQXS0GnDKJzTd1oS6KXw7QnaLuJKeiwO-SrJzeBY66aoXsDM4MavKb-xNG7klTtvjLVdjeB-rqoQP2YBVuD1uF3EpXBCqaLr6KKr7jNv9TBQIJNpOV5oh2N71pEG3A0ETUtszWV5nNgMhLeq3AHHZyqx-PGokWYOAkfhRII-y9oVW2-dx2hUbzlV_d9vQvVEA7QLjRMxC0PslZHq2aoYrWed2tKGq2vHxaDG_Q2ZQgEUp5cAwJ-ZJ2swex5dn0QzVfieO75Qfdr7aCwuMDY4wT2q7W7NxAPGktvZ6ggcQUw1ZJQNalzlB0JJdhmzOGI6lF1SQRE2QtTYJXiCkQYfyYHynLYgnvkyzm-cX6gBegMRUcz1Y2A0FVz1-grEqqN3RMTFzXylcXsJ5sJ0iJzdMKZEqgnyxMVj3JfM9PrjUUdX_68wVmqvDHTCLdj1IA6yDw7yZXIi2JzghZMXYSopkXjYsQtD6B0qmcJ3MMVaJUjt_UpNApFX94V9_gYA2Tmkzap2Y9aWZUCf7o-M2dSuiOmAoqJGq9jgGjQWQ6y0YQL3zTpIvKSqugwisBlInbmkRS80aWZnQskdxuAfBDAP9P_WWRj17U8993ddbBiTtnLo80TIFp7ZIvhalnHqe_OwUJxBBJpM53I7HxR0NisDE-xJMQcO62aaGra7qdn2jS9NckZNXyGPI1FUUXnbuNWqoEEpvwLOpJh0dWKR4ZnZQCv2zpUjmTo3_bStFT8OoVPCJ5vvrbKMisG7XGjjhVNS_C-CdCjPOQhSR8T79MkqpdpQvy6xJ27bFByIvieLbVsmKyVKOTbPvJyfvV2uW_hDU7645O_BKLAGNrrJAtxYmCvfWlqwMPSV6nNRADC1N68Psl0xyQxMJ73rsaHbbMUUDczfHF28FI8CHJvusc7PeMSy3XBhot5xn7-UCirMdTINW03QqEV9OuTcxoMX4sNY6B17fIYxbYYIAEqCXVzLWVhc3QtMTCvCQ.m3u8
 #EXTINF:0,ATV SD
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,ATV+ SD
@@ -30,9 +30,9 @@ https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
 #EXTINF:0,KARIBENA
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w553159301.m3u8
-#EXTINF:Hiperconectados TV
+#EXTINF:0,Hiperconectados TV
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
-#EXTINF:AlternaTV
+#EXTINF:0,AlternaTV
 https://alternatv.ar/stream/hls/live.m3u8
 
 
@@ -41,15 +41,15 @@ https://alternatv.ar/stream/hls/live.m3u8
 
 #EXTINF:0,CNN ESPANOL SD
 http://190.0.241.181:8000/play/a06n/index.m3u8
-#EXTINF:CNN Internacional
+#EXTINF:0,CNN Internacional
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
-#EXTINF:Bloomberg Europe EN
+#EXTINF:0,Bloomberg Europe EN
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:TVE Internacional America
+#EXTINF:0,TVE Internacional America
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
-#EXTINF:24 Horas Internacional
+#EXTINF:0,24 Horas Internacional
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:Euronews en Español
+#EXTINF:0,Euronews en Español
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:0,RT ESPANOL
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
