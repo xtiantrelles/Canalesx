@@ -24,17 +24,24 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/i
 #EXTINF:0,NATIVA
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:29,WILLAX TV
-https://dai.ly/x7x4dgx
+#https://dai.ly/x7x4dgx
+https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_480p/chunks.m3u8
 #EXTINF:0,NACIONAL TV PERU
 https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 #EXTINF:0,BHTV
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
+#EXTINF:0,GLOBAL
+https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
 #EXTINF:0,KARIBENA
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w553159301.m3u8
 #EXTINF:0,Hiperconectados TV
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:0,AlternaTV
 https://alternatv.ar/stream/hls/live.m3u8
+#EXTINF:0,TOP LATINO
+https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
+#EXTINF:0,VM LATINO
+https://live-evg25.tv360.bitel.com.pe/bitel/vmlatino/bitel/vmlatino_ori_480p/chunks.m3u8
 
 
 
