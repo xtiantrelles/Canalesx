@@ -17,7 +17,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_480p/c
 #https://cdnhd.iblups.com/hls/ptv5.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_480p/chunks.m3u8
 #EXTINF:0,ATV SD
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+#https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_source/chunks.m3u8
 #EXTINF:0,ATV+ SD
 #https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
 https://d1svme839xkbsn.cloudfront.net/live2/alba-pe-atv-atvmas_720p/chunks.m3u8
