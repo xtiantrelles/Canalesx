@@ -24,7 +24,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_
 https://live-evg4.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_source/chunks.m3u8
 #EXTINF:0,ATV+ SD
 #https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
-https://d1svme839xkbsn.cloudfront.net/live2/alba-pe-atv-atvmas_720p/chunks.m3u8
+#https://d1svme839xkbsn.cloudfront.net/live2/alba-pe-atv-atvmas_720p/chunks.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_source/chunks.m3u8
 #EXTINF:0,EXITOSA TV
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 #EXTINF:0,NATIVA
