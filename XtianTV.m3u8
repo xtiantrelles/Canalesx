@@ -30,9 +30,11 @@ https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_source/chunk
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 #EXTINF:0,NATIVA
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:29,WILLAX TV
+#EXTINF:0,WILLAX TV
 #https://dai.ly/x7x4dgx
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
+#EXTINF:0,PBO
+https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_source/chunks.m3u8
 #EXTINF:0,NACIONAL TV PERU
 https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 #EXTINF:0,BHTV
